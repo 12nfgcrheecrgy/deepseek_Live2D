@@ -1,0 +1,2175 @@
+[18:36:24] [INFO] [main] === Live2DCompanion starting ===
+[18:36:24] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:36:24] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:36:24] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:36:24] [INFO] [main] TTS engine set to SoVITS
+[18:36:24] [INFO] [main] Starting SoVITS server...
+[18:36:24] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:36:24] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:36:24] [INFO] [main] Window: 400x500
+[18:36:24] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:36:24] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:36:24] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:36:24] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:36:24] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:36:24] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:36:24] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:36:24] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:36:51] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:36:51] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:36:51] [INFO] [LAppDelegate] Window shown
+[18:36:51] [INFO] [LAppDelegate] Initialized successfully
+[18:36:51] [INFO] [main] Application initialized successfully
+[18:36:51] [INFO] [main] Entering main loop
+[18:36:51] [INFO] [main] Frame: motionManager update
+[18:36:51] [INFO] [main] Frame: modelManager update
+[18:36:51] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:51] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:51] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:51] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:51] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:51] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:51] [INFO] [main] Frame: BeginFrame
+[18:36:51] [INFO] [main] Frame: Render
+[18:36:51] [INFO] [main] Frame: EndFrame
+[18:36:51] [INFO] [main] Frame: complete
+[18:36:51] [INFO] [main] Frame: motionManager update
+[18:36:51] [INFO] [main] Frame: modelManager update
+[18:36:51] [INFO] [main] Frame: BeginFrame
+[18:36:51] [INFO] [main] Frame: Render
+[18:36:51] [INFO] [main] Frame: EndFrame
+[18:36:51] [INFO] [main] Frame: complete
+[18:36:51] [INFO] [main] Frame: motionManager update
+[18:36:51] [INFO] [main] Frame: modelManager update
+[18:36:51] [INFO] [main] Frame: BeginFrame
+[18:36:51] [INFO] [main] Frame: Render
+[18:36:51] [INFO] [main] Frame: EndFrame
+[18:36:51] [INFO] [main] Frame: complete
+[18:36:51] [INFO] [main] Frame: motionManager update
+[18:36:51] [INFO] [main] Frame: modelManager update
+[18:36:51] [INFO] [main] Frame: BeginFrame
+[18:36:51] [INFO] [main] Frame: Render
+[18:36:51] [INFO] [main] Frame: EndFrame
+[18:36:51] [INFO] [main] Frame: complete
+[18:36:51] [INFO] [main] Frame: motionManager update
+[18:36:51] [INFO] [main] Frame: modelManager update
+[18:36:51] [INFO] [main] Frame: BeginFrame
+[18:36:51] [INFO] [main] Frame: Render
+[18:36:51] [INFO] [main] Frame: EndFrame
+[18:36:51] [INFO] [main] Frame: complete
+[18:36:51] [INFO] [PythonBridge] Process exit code: 1
+[18:36:51] [INFO] [PythonBridge] RunScript result: output length=80
+[18:36:53] [INFO] [main] Auto-greeting triggered
+[18:36:53] [INFO] [DoTalk] Entering DoTalk, isTalking=0
+[18:36:53] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:53] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:53] [INFO] [PythonBridge] Process exit code: 1
+[18:36:53] [INFO] [PythonBridge] RunScript result: output length=80
+[18:36:53] [INFO] [DoTalk] Calling DeepSeek Chat...
+[18:36:53] [INFO] [DeepSeek] Chat called, userMessage length=74, screenContent length=0
+[18:36:53] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:36:53] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:36:53] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:36:53] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:36:56] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:56] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:56] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:56] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:56] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:56] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:57] [INFO] [PythonBridge] Process exit code: 1
+[18:36:57] [INFO] [PythonBridge] RunScript result: output length=80
+[18:37:01] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:37:01] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:37:01] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:37:01] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:37:02] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:37:02] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:37:03] [INFO] [PythonBridge] Process exit code: 1
+[18:37:03] [INFO] [PythonBridge] RunScript result: output length=80
+[18:37:06] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:37:06] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:37:06] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:37:06] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:37:08] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:37:08] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:37:08] [INFO] [PythonBridge] Process exit code: 0
+[18:37:08] [INFO] [PythonBridge] RunScript result: output length=210
+[18:37:08] [INFO] [DeepSeek] RunScript returned output length=210
+[18:37:08] [INFO] [DeepSeek] Success, reply length=178
+[18:37:08] [INFO] [DoTalk] DeepSeek Chat result: success=1, reply length=178
+[18:37:08] [INFO] [DoTalk] Calling TTS Speak...
+[18:37:08] [INFO] [TTSManager] SoVITS server not ready, trying to initialize...
+[18:37:08] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:37:08] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:37:08] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:37:08] [INFO] [PythonBridge] Process exit code: 1
+[18:37:08] [INFO] [PythonBridge] RunScript result: output length=80
+[18:37:11] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:37:11] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:37:11] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:37:11] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:37:13] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:37:13] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:46:06] [INFO] [main] === Live2DCompanion starting ===
+[18:46:06] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:46:06] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:46:06] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:46:06] [INFO] [main] TTS engine set to SoVITS
+[18:46:06] [INFO] [main] Starting SoVITS server...
+[18:46:06] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:46:06] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:46:06] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:46:06] [INFO] [main] Window: 400x500
+[18:46:06] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:46:06] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:46:06] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:46:06] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:46:06] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:46:07] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:46:07] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:46:32] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:46:32] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:46:32] [INFO] [LAppDelegate] Window shown
+[18:46:32] [INFO] [LAppDelegate] Initialized successfully
+[18:46:32] [INFO] [main] Application initialized successfully
+[18:46:32] [INFO] [main] Entering main loop
+[18:46:32] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:46:32] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:46:32] [INFO] [main] Frame: motionManager update
+[18:46:32] [INFO] [main] Frame: modelManager update
+[18:46:32] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:46:32] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:46:32] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:46:32] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:46:32] [INFO] [main] Frame: BeginFrame
+[18:46:32] [INFO] [main] Frame: Render
+[18:46:32] [INFO] [main] Frame: EndFrame
+[18:46:32] [INFO] [main] Frame: complete
+[18:46:32] [INFO] [main] Frame: motionManager update
+[18:46:32] [INFO] [main] Frame: modelManager update
+[18:46:32] [INFO] [main] Frame: BeginFrame
+[18:46:32] [INFO] [main] Frame: Render
+[18:46:32] [INFO] [main] Frame: EndFrame
+[18:46:32] [INFO] [main] Frame: complete
+[18:46:32] [INFO] [main] Frame: motionManager update
+[18:46:32] [INFO] [main] Frame: modelManager update
+[18:46:32] [INFO] [main] Frame: BeginFrame
+[18:46:32] [INFO] [main] Frame: Render
+[18:46:32] [INFO] [main] Frame: EndFrame
+[18:46:32] [INFO] [main] Frame: complete
+[18:46:32] [INFO] [main] Frame: motionManager update
+[18:46:32] [INFO] [main] Frame: modelManager update
+[18:46:32] [INFO] [main] Frame: BeginFrame
+[18:46:32] [INFO] [main] Frame: Render
+[18:46:32] [INFO] [main] Frame: EndFrame
+[18:46:32] [INFO] [main] Frame: complete
+[18:46:32] [INFO] [main] Frame: motionManager update
+[18:46:32] [INFO] [main] Frame: modelManager update
+[18:46:32] [INFO] [main] Frame: BeginFrame
+[18:46:32] [INFO] [main] Frame: Render
+[18:46:32] [INFO] [main] Frame: EndFrame
+[18:46:32] [INFO] [main] Frame: complete
+[18:46:33] [INFO] [PythonBridge] Process exit code: 1
+[18:46:33] [INFO] [PythonBridge] RunScript result: output length=80
+[18:46:34] [INFO] [main] Auto-greeting triggered
+[18:46:34] [INFO] [DoTalk] Entering DoTalk, isTalking=0
+[18:46:34] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:46:34] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:46:35] [INFO] [PythonBridge] Process exit code: 1
+[18:46:35] [INFO] [PythonBridge] RunScript result: output length=80
+[18:46:35] [INFO] [DoTalk] Calling DeepSeek Chat...
+[18:46:35] [INFO] [DeepSeek] Chat called, userMessage length=74, screenContent length=0
+[18:46:35] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:46:35] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:46:35] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:46:35] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:46:37] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:46:37] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:46:37] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:46:37] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:46:38] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:46:38] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:46:39] [INFO] [PythonBridge] Process exit code: 1
+[18:46:39] [INFO] [PythonBridge] RunScript result: output length=80
+[18:46:42] [INFO] [PythonBridge] Process exit code: 0
+[18:46:42] [INFO] [PythonBridge] RunScript result: output length=177
+[18:46:42] [INFO] [DeepSeek] RunScript returned output length=177
+[18:46:42] [INFO] [DeepSeek] Success, reply length=145
+[18:46:42] [INFO] [DoTalk] DeepSeek Chat result: success=1, reply length=145
+[18:46:42] [INFO] [DoTalk] Calling TTS Speak...
+[18:46:42] [INFO] [TTSManager] SoVITS server not ready, trying to initialize...
+[18:46:42] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:46:42] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:46:42] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:46:42] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:46:42] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:46:42] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:46:42] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:46:44] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:46:44] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:46:44] [INFO] [PythonBridge] Process exit code: 1
+[18:46:44] [INFO] [PythonBridge] RunScript result: output length=80
+[18:46:47] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:46:47] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:46:47] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:46:47] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:19:30] [INFO] [main] === Live2DCompanion starting ===
+[18:19:30] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:19:30] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:19:30] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:19:30] [INFO] [main] TTS engine set to SoVITS
+[18:19:30] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:19:30] [INFO] [TTSManager] Loader GUI started (PID: 11964)
+[18:19:30] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:19:30] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:19:30] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:19:30] [INFO] [main] Window: 400x500
+[18:19:30] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:19:30] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:19:30] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:19:30] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:19:30] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:19:30] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:19:30] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:19:52] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:19:52] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:19:52] [INFO] [LAppDelegate] Window shown
+[18:19:52] [INFO] [LAppDelegate] Initialized successfully
+[18:19:52] [INFO] [main] Application initialized successfully
+[18:19:52] [INFO] [ChatDialog] Window created successfully
+[18:19:52] [INFO] [main] Entering main loop
+[18:19:52] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:19:52] [INFO] [main] Frame: motionManager update
+[18:19:52] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:19:52] [INFO] [main] Frame: modelManager update
+[18:19:52] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:19:52] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:19:52] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:19:52] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:19:52] [INFO] [main] Frame: BeginFrame
+[18:19:52] [INFO] [main] Frame: Render
+[18:19:52] [INFO] [main] Frame: EndFrame
+[18:19:52] [INFO] [main] Frame: complete
+[18:19:52] [INFO] [main] Frame: motionManager update
+[18:19:52] [INFO] [main] Frame: modelManager update
+[18:19:52] [INFO] [main] Frame: BeginFrame
+[18:19:52] [INFO] [main] Frame: Render
+[18:19:52] [INFO] [main] Frame: EndFrame
+[18:19:52] [INFO] [main] Frame: complete
+[18:19:52] [INFO] [main] Frame: motionManager update
+[18:19:52] [INFO] [main] Frame: modelManager update
+[18:19:52] [INFO] [main] Frame: BeginFrame
+[18:19:52] [INFO] [main] Frame: Render
+[18:19:52] [INFO] [main] Frame: EndFrame
+[18:19:52] [INFO] [main] Frame: complete
+[18:19:52] [INFO] [main] Frame: motionManager update
+[18:19:52] [INFO] [main] Frame: modelManager update
+[18:19:52] [INFO] [main] Frame: BeginFrame
+[18:19:52] [INFO] [main] Frame: Render
+[18:19:52] [INFO] [main] Frame: EndFrame
+[18:19:52] [INFO] [main] Frame: complete
+[18:19:52] [INFO] [main] Frame: motionManager update
+[18:19:52] [INFO] [main] Frame: modelManager update
+[18:19:52] [INFO] [main] Frame: BeginFrame
+[18:19:52] [INFO] [main] Frame: Render
+[18:19:52] [INFO] [main] Frame: EndFrame
+[18:19:52] [INFO] [main] Frame: complete
+[18:19:54] [INFO] [PythonBridge] Process exit code: 0
+[18:19:54] [INFO] [PythonBridge] RunScript result: output length=1209
+[18:19:54] [INFO] [main] Auto-greeting triggered
+[18:19:54] [INFO] [DoChat] Entering, isTalking=0, message='Hello master~ What's on screen? Keep me company!'
+[18:19:54] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:19:54] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1153
+[18:19:54] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:19:54] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:19:54] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:19:54] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:19:57] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:19:57] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:19:57] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:19:57] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:19:59] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:19:59] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:19:59] [INFO] [PythonBridge] Persistent process ready!
+[18:19:59] [INFO] [PythonBridge] Model load time: 16032 ms
+[18:19:59] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:19:59] [INFO] [main] SoVITS server ready
+[18:19:59] [INFO] [TTSManager] Terminating loader GUI...
+[18:20:00] [INFO] [PythonBridge] Process exit code: 0
+[18:20:00] [INFO] [PythonBridge] RunScript result: output length=242
+[18:20:00] [INFO] [DeepSeek] RunScript returned output length=242
+[18:20:00] [INFO] [DeepSeek] Success, reply length=210
+[18:20:00] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=210
+[18:20:00] [INFO] [DoChat] Calling TTS Speak...
+[18:20:00] [INFO] [PythonBridge] Process exit code: 0
+[18:20:00] [INFO] [PythonBridge] RunScript result: output length=858
+[18:20:02] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:02] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:02] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:02] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:05] [INFO] [DoChat] Entering, isTalking=1, message='‰Ω†Â•ΩÂïä'
+[18:20:05] [INFO] [DoChat] Already talking, returning
+[18:20:05] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:05] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:07] [INFO] [PythonBridge] Process exit code: 0
+[18:20:07] [INFO] [PythonBridge] RunScript result: output length=1030
+[18:20:07] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:07] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:07] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:07] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:10] [INFO] [TTSManager] SoVITS server error: LookupError: 
+**********************************************************************
+  Resource 'averaged_perceptron_tagger_eng' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'taggers/averaged_perceptron_tagger_eng/'
+
+  Searched in:
+    - 'C:\\Users\\36314/nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\share\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\lib\\nltk_data'
+    - 'C:\\Users\\36314\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+[18:20:10] [INFO] [TTSManager] SoVITS request failed (fail count: 1/3)
+[18:20:10] [INFO] [DoChat] TTS Speak failed
+[18:20:10] [INFO] [DoChat] Exiting
+[18:20:12] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:12] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:12] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:12] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:12] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:12] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:14] [INFO] [PythonBridge] Process exit code: 0
+[18:20:14] [INFO] [PythonBridge] RunScript result: output length=1079
+[18:20:17] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:17] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:17] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:17] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:19] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:19] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:20] [INFO] [PythonBridge] Process exit code: 0
+[18:20:20] [INFO] [PythonBridge] RunScript result: output length=1199
+[18:20:21] [INFO] [DoChat] Entering, isTalking=0, message='‰Ω†Â•ΩÂïä'
+[18:20:21] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:20:21] [INFO] [DeepSeek] Chat called, userMessage length=9, screenContent length=1144
+[18:20:21] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:20:21] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:20:21] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:20:21] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:20:22] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:22] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:22] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:22] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:23] [INFO] [DoChat] Entering, isTalking=1, message='Âïä'
+[18:20:23] [INFO] [DoChat] Already talking, returning
+[18:20:25] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:25] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:26] [INFO] [PythonBridge] Process exit code: 0
+[18:20:26] [INFO] [PythonBridge] RunScript result: output length=219
+[18:20:26] [INFO] [DeepSeek] RunScript returned output length=219
+[18:20:26] [INFO] [DeepSeek] Success, reply length=187
+[18:20:26] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=187
+[18:20:26] [INFO] [DoChat] Calling TTS Speak...
+[18:20:27] [INFO] [PythonBridge] Process exit code: 0
+[18:20:27] [INFO] [PythonBridge] RunScript result: output length=1467
+[18:20:27] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:27] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:27] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:27] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:32] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:32] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:33] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:33] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:33] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:33] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:34] [INFO] [PythonBridge] Process exit code: 0
+[18:20:34] [INFO] [PythonBridge] RunScript result: output length=1551
+[18:20:38] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:38] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:38] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:38] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:39] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:39] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:41] [INFO] [PythonBridge] Process exit code: 0
+[18:20:41] [INFO] [PythonBridge] RunScript result: output length=1545
+[18:20:43] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:43] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:43] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:43] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:46] [INFO] [TTSManager] SoVITS synthesis: 19661 ms
+[18:20:46] [INFO] [Perf] TTS latency: 19665.8 ms
+[18:20:46] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_20_26_529.wav
+[18:20:46] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[18:20:46] [INFO] [DoChat] Playing audio asynchronously...
+[18:20:46] [INFO] [DoChat] Audio playback started asynchronously
+[18:20:46] [INFO] [DoChat] Exiting
+[18:20:46] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:46] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:48] [INFO] [PythonBridge] Process exit code: 0
+[18:20:48] [INFO] [PythonBridge] RunScript result: output length=1541
+[18:20:48] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:48] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:48] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:48] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:49] [INFO] [MotionManager] Motion finished: Talk
+[18:20:53] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:53] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:20:53] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:53] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:53] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:53] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:54] [INFO] [PythonBridge] Process exit code: 0
+[18:20:54] [INFO] [PythonBridge] RunScript result: output length=1533
+[18:20:58] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:20:58] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:20:58] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:20:58] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:20:59] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:20:59] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:21:01] [INFO] [PythonBridge] Process exit code: 0
+[18:21:01] [INFO] [PythonBridge] RunScript result: output length=1595
+[18:21:03] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:21:03] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:21:03] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:21:03] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:07] [INFO] [main] === Live2DCompanion starting ===
+[18:24:07] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:24:07] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:24:07] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:24:07] [INFO] [main] TTS engine set to SoVITS
+[18:24:07] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:24:07] [INFO] [TTSManager] Loader GUI started (PID: 18928)
+[18:24:07] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:24:07] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:24:07] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:24:07] [INFO] [main] Window: 400x500
+[18:24:07] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:24:07] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:24:07] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:24:07] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:24:07] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:24:07] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:24:07] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:24:29] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:24:29] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:24:29] [INFO] [LAppDelegate] Window shown
+[18:24:29] [INFO] [LAppDelegate] Initialized successfully
+[18:24:29] [INFO] [main] Application initialized successfully
+[18:24:29] [INFO] [ChatDialog] Window created successfully
+[18:24:29] [INFO] [main] Entering main loop
+[18:24:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:24:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:24:29] [INFO] [main] Frame: motionManager update
+[18:24:29] [INFO] [main] Frame: modelManager update
+[18:24:29] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:29] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:29] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:29] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:29] [INFO] [main] Frame: BeginFrame
+[18:24:29] [INFO] [main] Frame: Render
+[18:24:29] [INFO] [main] Frame: EndFrame
+[18:24:29] [INFO] [main] Frame: complete
+[18:24:29] [INFO] [main] Frame: motionManager update
+[18:24:29] [INFO] [main] Frame: modelManager update
+[18:24:29] [INFO] [main] Frame: BeginFrame
+[18:24:29] [INFO] [main] Frame: Render
+[18:24:29] [INFO] [main] Frame: EndFrame
+[18:24:29] [INFO] [main] Frame: complete
+[18:24:29] [INFO] [main] Frame: motionManager update
+[18:24:29] [INFO] [main] Frame: modelManager update
+[18:24:29] [INFO] [main] Frame: BeginFrame
+[18:24:29] [INFO] [main] Frame: Render
+[18:24:29] [INFO] [main] Frame: EndFrame
+[18:24:29] [INFO] [main] Frame: complete
+[18:24:29] [INFO] [main] Frame: motionManager update
+[18:24:29] [INFO] [main] Frame: modelManager update
+[18:24:29] [INFO] [main] Frame: BeginFrame
+[18:24:29] [INFO] [main] Frame: Render
+[18:24:29] [INFO] [main] Frame: EndFrame
+[18:24:29] [INFO] [main] Frame: complete
+[18:24:29] [INFO] [main] Frame: motionManager update
+[18:24:29] [INFO] [main] Frame: modelManager update
+[18:24:29] [INFO] [main] Frame: BeginFrame
+[18:24:29] [INFO] [main] Frame: Render
+[18:24:29] [INFO] [main] Frame: EndFrame
+[18:24:29] [INFO] [main] Frame: complete
+[18:24:31] [INFO] [PythonBridge] Process exit code: 0
+[18:24:31] [INFO] [PythonBridge] RunScript result: output length=1692
+[18:24:31] [INFO] [main] Auto-greeting triggered
+[18:24:31] [INFO] [DoChat] Entering, isTalking=0, message='Hello master~ What's on screen? Keep me company!'
+[18:24:31] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:24:31] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1638
+[18:24:31] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:24:31] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:24:31] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:24:31] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:24:34] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:34] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:34] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:34] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:34] [INFO] [PythonBridge] Persistent process ready!
+[18:24:34] [INFO] [PythonBridge] Model load time: 15399 ms
+[18:24:34] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:24:34] [INFO] [main] SoVITS server ready
+[18:24:34] [INFO] [TTSManager] Terminating loader GUI...
+[18:24:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:24:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:24:37] [INFO] [PythonBridge] Process exit code: 0
+[18:24:37] [INFO] [PythonBridge] RunScript result: output length=216
+[18:24:37] [INFO] [DeepSeek] RunScript returned output length=216
+[18:24:37] [INFO] [DeepSeek] Success, reply length=184
+[18:24:37] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=184
+[18:24:37] [INFO] [DoChat] Calling TTS Speak...
+[18:24:37] [INFO] [PythonBridge] Process exit code: 0
+[18:24:37] [INFO] [PythonBridge] RunScript result: output length=1575
+[18:24:38] [INFO] [ChatDialog] Send button clicked
+[18:24:38] [INFO] [ChatDialog] OnSend: '‰Ω†Â•ΩÂïä'
+[18:24:38] [INFO] [DoChat] Entering, isTalking=1, message='‰Ω†Â•ΩÂïä'
+[18:24:38] [INFO] [DoChat] Already talking, returning
+[18:24:39] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:39] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:39] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:39] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:42] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:24:42] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:24:44] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:44] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:44] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:44] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:44] [INFO] [PythonBridge] Process exit code: 0
+[18:24:44] [INFO] [PythonBridge] RunScript result: output length=1294
+[18:24:49] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:49] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:49] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:49] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:50] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:24:50] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:24:51] [INFO] [PythonBridge] Process exit code: 0
+[18:24:51] [INFO] [PythonBridge] RunScript result: output length=2130
+[18:24:54] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:54] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:54] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:54] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:24:56] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:24:56] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:24:57] [INFO] [ChatDialog] Send button clicked
+[18:24:57] [INFO] [ChatDialog] OnSend: '‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:24:57] [INFO] [DoChat] Entering, isTalking=1, message='‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:24:57] [INFO] [DoChat] Already talking, returning
+[18:24:57] [INFO] [TTSManager] SoVITS synthesis: 20176 ms
+[18:24:57] [INFO] [Perf] TTS latency: 20192.7 ms
+[18:24:57] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_24_37_188.wav
+[18:24:57] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[18:24:57] [INFO] [DoChat] Playing audio asynchronously...
+[18:24:57] [INFO] [DoChat] Audio playback started asynchronously
+[18:24:57] [INFO] [DoChat] Exiting
+[18:24:58] [INFO] [PythonBridge] Process exit code: 0
+[18:24:58] [INFO] [PythonBridge] RunScript result: output length=2152
+[18:24:59] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:24:59] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:24:59] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:24:59] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:00] [INFO] [MotionManager] Motion finished: Talk
+[18:25:03] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:03] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:04] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:04] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:04] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:04] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:05] [INFO] [PythonBridge] Process exit code: 0
+[18:25:05] [INFO] [PythonBridge] RunScript result: output length=1741
+[18:25:09] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:09] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:09] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:09] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:10] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:10] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:11] [INFO] [PythonBridge] Process exit code: 0
+[18:25:11] [INFO] [PythonBridge] RunScript result: output length=1724
+[18:25:14] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:14] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:14] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:14] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:16] [INFO] [ChatDialog] OnSend: '‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:25:16] [INFO] [DoChat] Entering, isTalking=0, message='‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:25:16] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:25:16] [INFO] [DeepSeek] Chat called, userMessage length=15, screenContent length=1670
+[18:25:16] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:25:16] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:25:16] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:25:16] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:25:16] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:16] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:18] [INFO] [PythonBridge] Process exit code: 0
+[18:25:18] [INFO] [PythonBridge] RunScript result: output length=1761
+[18:25:19] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:19] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:19] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:19] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:21] [INFO] [PythonBridge] Process exit code: 0
+[18:25:21] [INFO] [PythonBridge] RunScript result: output length=259
+[18:25:21] [INFO] [DeepSeek] RunScript returned output length=259
+[18:25:21] [INFO] [DeepSeek] Success, reply length=227
+[18:25:21] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=227
+[18:25:21] [INFO] [DoChat] Calling TTS Speak...
+[18:25:23] [INFO] [ChatDialog] Send button clicked
+[18:25:23] [INFO] [ChatDialog] OnSend: '‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:25:23] [INFO] [DoChat] Entering, isTalking=1, message='‰Ω†Âú®Âπ≤‰ªÄ‰πà'
+[18:25:23] [INFO] [DoChat] Already talking, returning
+[18:25:23] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:23] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:25] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:25] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:25] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:25] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:25] [INFO] [PythonBridge] Process exit code: 0
+[18:25:25] [INFO] [PythonBridge] RunScript result: output length=1762
+[18:25:26] [INFO] [TTSManager] SoVITS server error: LookupError: 
+**********************************************************************
+  Resource 'averaged_perceptron_tagger_eng' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'taggers/averaged_perceptron_tagger_eng/'
+
+  Searched in:
+    - 'C:\\Users\\36314/nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\share\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\lib\\nltk_data'
+    - 'C:\\Users\\36314\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+[18:25:26] [INFO] [TTSManager] SoVITS request failed (fail count: 1/3)
+[18:25:26] [INFO] [DoChat] TTS Speak failed
+[18:25:26] [INFO] [DoChat] Exiting
+[18:25:30] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:30] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:30] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:30] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:30] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:30] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:31] [INFO] [PythonBridge] Process exit code: 0
+[18:25:31] [INFO] [PythonBridge] RunScript result: output length=2040
+[18:25:35] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:35] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:35] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:35] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:38] [INFO] [PythonBridge] Process exit code: 0
+[18:25:38] [INFO] [PythonBridge] RunScript result: output length=1953
+[18:25:40] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:40] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:40] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:40] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:43] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:43] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:45] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:45] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:45] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:45] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:45] [INFO] [PythonBridge] Process exit code: 0
+[18:25:45] [INFO] [PythonBridge] RunScript result: output length=1936
+[18:25:50] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:50] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:50] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:50] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:50] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:50] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:52] [INFO] [PythonBridge] Process exit code: 0
+[18:25:52] [INFO] [PythonBridge] RunScript result: output length=1619
+[18:25:55] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:25:55] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:25:55] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:25:55] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:25:57] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:25:57] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:25:58] [INFO] [PythonBridge] Process exit code: 0
+[18:25:58] [INFO] [PythonBridge] RunScript result: output length=2496
+[18:29:57] [INFO] [main] === Live2DCompanion starting ===
+[18:29:57] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:29:57] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:29:57] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:29:57] [INFO] [main] TTS engine set to SoVITS
+[18:29:57] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:29:57] [INFO] [TTSManager] Loader GUI started (PID: 14372)
+[18:29:57] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:29:57] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:29:57] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:29:57] [INFO] [main] Window: 400x500
+[18:29:57] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:29:57] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:29:57] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:29:57] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:29:57] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:29:57] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:29:57] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:30:19] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:30:19] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:30:19] [INFO] [LAppDelegate] Window shown
+[18:30:19] [INFO] [LAppDelegate] Initialized successfully
+[18:30:19] [INFO] [main] Application initialized successfully
+[18:30:19] [INFO] [ChatDialog] Window created successfully
+[18:30:19] [INFO] [main] Entering main loop
+[18:30:19] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:19] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:19] [INFO] [main] Frame: motionManager update
+[18:30:19] [INFO] [main] Frame: modelManager update
+[18:30:19] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:19] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:19] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:19] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:19] [INFO] [main] Frame: BeginFrame
+[18:30:19] [INFO] [main] Frame: Render
+[18:30:19] [INFO] [main] Frame: EndFrame
+[18:30:19] [INFO] [main] Frame: complete
+[18:30:19] [INFO] [main] Frame: motionManager update
+[18:30:19] [INFO] [main] Frame: modelManager update
+[18:30:19] [INFO] [main] Frame: BeginFrame
+[18:30:19] [INFO] [main] Frame: Render
+[18:30:19] [INFO] [main] Frame: EndFrame
+[18:30:19] [INFO] [main] Frame: complete
+[18:30:19] [INFO] [main] Frame: motionManager update
+[18:30:19] [INFO] [main] Frame: modelManager update
+[18:30:19] [INFO] [main] Frame: BeginFrame
+[18:30:19] [INFO] [main] Frame: Render
+[18:30:19] [INFO] [main] Frame: EndFrame
+[18:30:19] [INFO] [main] Frame: complete
+[18:30:19] [INFO] [main] Frame: motionManager update
+[18:30:19] [INFO] [main] Frame: modelManager update
+[18:30:19] [INFO] [main] Frame: BeginFrame
+[18:30:19] [INFO] [main] Frame: Render
+[18:30:19] [INFO] [main] Frame: EndFrame
+[18:30:19] [INFO] [main] Frame: complete
+[18:30:19] [INFO] [main] Frame: motionManager update
+[18:30:19] [INFO] [main] Frame: modelManager update
+[18:30:19] [INFO] [main] Frame: BeginFrame
+[18:30:19] [INFO] [main] Frame: Render
+[18:30:19] [INFO] [main] Frame: EndFrame
+[18:30:19] [INFO] [main] Frame: complete
+[18:30:21] [INFO] [main] Auto-greeting triggered
+[18:30:21] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[18:30:21] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:21] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:23] [INFO] [PythonBridge] Process exit code: 0
+[18:30:23] [INFO] [PythonBridge] RunScript result: output length=3501
+[18:30:23] [INFO] [PythonBridge] RunScript result: output length=2346
+[18:30:23] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:30:23] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=2284
+[18:30:23] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:30:23] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:30:23] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:30:23] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:30:24] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:24] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:24] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:24] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:25] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: ªÚ °∞ ªÿ µΩ 2049 °∞ ƒ« ÷÷ ∑Á ∏Ò £© ‘⁄  ¬ º˛ ∑¢ ΩÕ º∏ ÃÏ ∫Û £¨ ∑¢ ≤º …Ó Ω‚ Œˆ  ” ∆µ  ± µƒ ÕÍ ’˚ ø⁄ Œ« °¢ ¬ﬂ º≠ ∫Õ  ” æı ≥  œ÷ °£ ∏¯ DeepSeek ∑¢ πÿ œ˚ œ¢ …Ó Àº øº ”… ¡ı ÷˜ £¨ Ω˙ ◊” æÑ ’Á ± 0 0 °∞ 26
+
+[18:30:25] [INFO] [PythonBridge] Process exit code: 2
+[18:30:25] [INFO] [PythonBridge] RunScript result: output length=0
+[18:30:25] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:30:25] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:30:25] [INFO] [PythonBridge] Persistent process ready!
+[18:30:25] [INFO] [PythonBridge] Model load time: 15531 ms
+[18:30:25] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:30:25] [INFO] [main] SoVITS server ready
+[18:30:25] [INFO] [TTSManager] Terminating loader GUI...
+[18:30:28] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:28] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:29] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:29] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:29] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:29] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:30] [INFO] [PythonBridge] Process exit code: 0
+[18:30:30] [INFO] [PythonBridge] RunScript result: output length=2252
+[18:30:35] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:35] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:35] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:35] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:35] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:35] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:36] [INFO] [PythonBridge] Process exit code: 0
+[18:30:36] [INFO] [PythonBridge] RunScript result: output length=1628
+[18:30:37] [INFO] [ChatDialog] Send button clicked
+[18:30:37] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:30:37] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:30:37] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:30:37] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=1563
+[18:30:37] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:30:37] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:30:37] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:30:37] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:30:40] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:40] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:40] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:40] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:41] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:41] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:42] [INFO] [PythonBridge] Process exit code: 0
+[18:30:42] [INFO] [PythonBridge] RunScript result: output length=204
+[18:30:42] [INFO] [DeepSeek] RunScript returned output length=204
+[18:30:42] [INFO] [DeepSeek] Success, reply length=172
+[18:30:42] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=172
+[18:30:42] [INFO] [DoChat] Calling TTS Speak...
+[18:30:43] [INFO] [PythonBridge] Process exit code: 0
+[18:30:43] [INFO] [PythonBridge] RunScript result: output length=1779
+[18:30:45] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:45] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:45] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:45] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:48] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:48] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:50] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:50] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:50] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:50] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:50] [INFO] [PythonBridge] Process exit code: 0
+[18:30:50] [INFO] [PythonBridge] RunScript result: output length=1671
+[18:30:55] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:30:55] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:30:55] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:30:55] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:30:55] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:30:55] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:30:57] [INFO] [PythonBridge] Process exit code: 0
+[18:30:57] [INFO] [PythonBridge] RunScript result: output length=1689
+[18:31:00] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:00] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:00] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:00] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:02] [INFO] [TTSManager] SoVITS synthesis: 19699 ms
+[18:31:02] [INFO] [Perf] TTS latency: 19705.0 ms
+[18:31:02] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_30_42_342.wav
+[18:31:02] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[18:31:02] [INFO] [DoChat] Playing audio asynchronously...
+[18:31:02] [INFO] [DoChat] Audio playback started asynchronously
+[18:31:02] [INFO] [DoChat] Exiting
+[18:31:02] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:02] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:04] [INFO] [PythonBridge] Process exit code: 0
+[18:31:04] [INFO] [PythonBridge] RunScript result: output length=1669
+[18:31:05] [INFO] [MotionManager] Motion finished: Talk
+[18:31:05] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:05] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:05] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:05] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:09] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:09] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:10] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:10] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:10] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:10] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:10] [INFO] [PythonBridge] Process exit code: 0
+[18:31:10] [INFO] [PythonBridge] RunScript result: output length=1661
+[18:31:15] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:15] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:15] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:15] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:16] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:16] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:17] [INFO] [PythonBridge] Process exit code: 0
+[18:31:17] [INFO] [PythonBridge] RunScript result: output length=2311
+[18:31:20] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:20] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:20] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:20] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:22] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:22] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:24] [INFO] [PythonBridge] Process exit code: 0
+[18:31:24] [INFO] [PythonBridge] RunScript result: output length=2360
+[18:31:25] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:25] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:25] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:25] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:30] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:30] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:30] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:30] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:31] [INFO] [PythonBridge] Process exit code: 0
+[18:31:31] [INFO] [PythonBridge] RunScript result: output length=2311
+[18:31:35] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:35] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:35] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:35] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:37] [INFO] [PythonBridge] Process exit code: 0
+[18:31:37] [INFO] [PythonBridge] RunScript result: output length=2336
+[18:31:40] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:40] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:40] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:40] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:42] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:42] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:44] [INFO] [PythonBridge] Process exit code: 0
+[18:31:44] [INFO] [PythonBridge] RunScript result: output length=2336
+[18:31:45] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:45] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:45] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:45] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:49] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:31:49] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:31:50] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:31:50] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:31:50] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:31:50] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:31:51] [INFO] [PythonBridge] Process exit code: 0
+[18:31:51] [INFO] [PythonBridge] RunScript result: output length=1810
+[18:35:50] [INFO] [main] === Live2DCompanion starting ===
+[18:35:50] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:35:50] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:35:50] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:35:50] [INFO] [main] TTS engine set to SoVITS
+[18:35:50] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:35:50] [INFO] [TTSManager] Loader GUI started (PID: 16512)
+[18:35:50] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:35:50] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:35:50] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:35:50] [INFO] [main] Window: 400x500
+[18:35:50] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:35:50] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:35:50] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:35:50] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:35:50] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:35:50] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:35:50] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:36:12] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:36:12] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:36:12] [INFO] [LAppDelegate] Window shown
+[18:36:12] [INFO] [LAppDelegate] Initialized successfully
+[18:36:12] [INFO] [main] Application initialized successfully
+[18:36:12] [INFO] [ChatDialog] Window created successfully
+[18:36:12] [INFO] [main] Entering main loop
+[18:36:12] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:12] [INFO] [main] Frame: motionManager update
+[18:36:12] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:12] [INFO] [main] Frame: modelManager update
+[18:36:12] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:12] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:12] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:12] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:12] [INFO] [main] Frame: BeginFrame
+[18:36:12] [INFO] [main] Frame: Render
+[18:36:12] [INFO] [main] Frame: EndFrame
+[18:36:12] [INFO] [main] Frame: complete
+[18:36:12] [INFO] [main] Frame: motionManager update
+[18:36:12] [INFO] [main] Frame: modelManager update
+[18:36:12] [INFO] [main] Frame: BeginFrame
+[18:36:12] [INFO] [main] Frame: Render
+[18:36:12] [INFO] [main] Frame: EndFrame
+[18:36:12] [INFO] [main] Frame: complete
+[18:36:12] [INFO] [main] Frame: motionManager update
+[18:36:12] [INFO] [main] Frame: modelManager update
+[18:36:12] [INFO] [main] Frame: BeginFrame
+[18:36:12] [INFO] [main] Frame: Render
+[18:36:12] [INFO] [main] Frame: EndFrame
+[18:36:12] [INFO] [main] Frame: complete
+[18:36:12] [INFO] [main] Frame: motionManager update
+[18:36:12] [INFO] [main] Frame: modelManager update
+[18:36:12] [INFO] [main] Frame: BeginFrame
+[18:36:12] [INFO] [main] Frame: Render
+[18:36:12] [INFO] [main] Frame: EndFrame
+[18:36:12] [INFO] [main] Frame: complete
+[18:36:12] [INFO] [main] Frame: motionManager update
+[18:36:12] [INFO] [main] Frame: modelManager update
+[18:36:12] [INFO] [main] Frame: BeginFrame
+[18:36:12] [INFO] [main] Frame: Render
+[18:36:12] [INFO] [main] Frame: EndFrame
+[18:36:12] [INFO] [main] Frame: complete
+[18:36:14] [INFO] [PythonBridge] Process exit code: 0
+[18:36:14] [INFO] [PythonBridge] RunScript result: output length=1446
+[18:36:14] [INFO] [main] Auto-greeting triggered
+[18:36:14] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[18:36:14] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:36:14] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1393
+[18:36:14] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:36:14] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:36:14] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:36:14] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:36:16] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: [DoChat] Playing audio asynchxonously £Æ ≤∑ ‡Ì ‡Ì 1 Dla –◊ ≤∑ = °∞ d nag ∞Õ :r “ª °µ pl °± ud ‡Ì F 1 ∞Õ £¨ »Œ π‹ ÕÀ ∆˜ Ωª »  æ… ‘∂ œÓ 0 ‹’ U ⁄• π˝ ≥Ã –‘ ƒ‹ ”¶ º◊ ¿˙  ∑ º« ¬º ∂Ø CPU 4 Ã® 54 GHz ƒ⁄ ¥Ê 8 / 1 5 G 8 °≤ 54 £• £© ¥≈ 0 (C:) SSD H DD “‘ Ã´ Radm n VPN ∑¢ ÀÕ 0 Ω” £Æ °£ 0 Kbps “‘ Ã´ “‘ Ã´ Õ¯ £∫ 16 °Ê Kbps 0 “‘ Ã´ audioFi1e.c str( °≥ °≥ ‡Ì NVIDIA GeForce GTX 1660 SUPER ÅR Video DeccHde 6.0 G 8 &O G8 π˝ œÍ 0 “ª œ¢ ∑˛ ŒÒ GPU ÅR Video EnccHde ø˜ ◊‹ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ # ∫µ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ «˝ ≥Ã ±æ «˝ µƒ ≥Ã Õπ ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ 32 °Ê 0 5 £Æ g536 4 / 23 / 2026 12 ()L 120 £© PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 »Á ø˘ “Ù Ÿ≈ –Õ °∑ ÷– 2 KB 1 KB 1 KB 2 KB 1 KB 1 KB ’˝ ‘⁄ º” ‘ÿ SoVlTS ”Ô “Ù ƒ£ –Õ ÈÃ –Õ º” ‘ÿ ÕÍ Ì¡ £¨ ’˝ ‘⁄ ‘§ »» “ª ∫ƒ Õ° 1E2 √Î Ò¸ º∆ 5 √Î VMwa re Network Adapte. ∑¢ ÀÕ 0 0 Kbps “‘ Ã´ VMware Network Adapte. ∑¢ ÀÕ 0 £Æ 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª g6% °≤ 52 °£ 0 ºÚ ”¯ ∆Ù œ¢ (Q) ¥Ú ø™ ‘¥ º‡  ” ∆˜ ¿˚ «o 96 £• GPIJ ƒ⁄ ¥Ê 2 £Æ 1 / 14 £Æ 0 GB ◊® GPIJ ƒ⁄ ¥Ê 2 £Æ 0 / 6 £Æ 0 GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ ïj π˝ 52 0C 5 £Æ Å} °∂ ‘∂ °¬ 1 ∏ˆ ∞” 8j1  ÷ ∞° P 0 0 ªÿ ‡Ì 0 0 0 Ò∑ œ¬ °∞ 26
+
+[18:36:16] [INFO] [PythonBridge] Process exit code: 2
+[18:36:16] [INFO] [PythonBridge] RunScript result: output length=0
+[18:36:16] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:36:16] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:36:17] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:17] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:17] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:17] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:18] [INFO] [PythonBridge] Persistent process ready!
+[18:36:18] [INFO] [PythonBridge] Model load time: 16167 ms
+[18:36:18] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:36:18] [INFO] [main] SoVITS server ready
+[18:36:18] [INFO] [TTSManager] Terminating loader GUI...
+[18:36:19] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:19] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:21] [INFO] [PythonBridge] Process exit code: 0
+[18:36:21] [INFO] [PythonBridge] RunScript result: output length=1210
+[18:36:23] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:23] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:23] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:23] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:26] [INFO] [ChatDialog] Send button clicked
+[18:36:26] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:36:26] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:36:26] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:36:26] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=1158
+[18:36:26] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:36:26] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:36:26] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:36:26] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:36:26] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:26] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:27] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: [DoChat] Playing audio asynchxonously £Æ 80 KB ≤∑ ‡Ì ‡Ì 1 Dla –◊ ≤∑ = °∞ d nag ∞Õ :r “ª °µ pl °± ud ‡Ì F 1 ∞Õ £¨ »Œ π‹ ÕÀ ∆˜ Ωª »  æ… ‘∂ œÓ 0 ‹’ (Y) audioFi1e.c str( °≥ °≥ ‡Ì NVIDIA GeForce GTX 1660 SUPER Video DeccHde 6.0 G 8 &O G 8 π˝ ⁄• π˝ ≥Ã –‘ ƒ‹ µƒ Chat with Furina ”¶ º◊ ¿˙  ∑ º« ¬º CPU 2g% 5g G ƒ⁄ ¥Ê 7 / 1 5 G 8 ¥≈ 0 (C: SSD ¥≈ 1 (D H DD “‘ Ã´ Radm n VPN ∑¢ ÀÕ 0  ’ £∫ “‘ Ã´ “‘ Ã´ Õ¯ ÀÕ 8 °Ê “‘ Ã´ VMware N ∑¢ ÀÕ 0  ’ £∫ “‘ Ã´ VMware Network Adapte. ∑¢ ÀÕ 0 £Æ 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª 2 £• °≤ 4g °£ 0 GPIJ ƒ⁄ ¥Ê 2 £Æ 1 / 14 £Æ 0 GB 2 °Ê / 6 °Ê GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ ïj π˝ 49 0C «˝ ≥Ã Õπ ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ 32 °Ê 0 5 £Æ g536 4 / 23 / 2026 12 ()L 120 £© PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 ºÚ ”¯ ∆Ù œ¢ (Q) ¥Ú ø™ ‘¥ º‡  ” ∆˜ ∑¥ œÚ ‘∂ ‘Ò »˝ d À» À» 05 À» °≤ ∞Õ 22 = ”Ø 1 KB 1 KB 1 KB 8 KB KB 2 KB 2 KB 1 KB 1 KB 2 KB 1 KB 1 KB 5 £Æ Å} °∂ ‘∂ °¬ 1 ∏ˆ ∞” 8j1  ÷ ∞° P 0 0 ªÿ ‡Ì 0 0 0 Ò∑ œ¬ °∞ 26
+
+[18:36:27] [INFO] [PythonBridge] Process exit code: 2
+[18:36:27] [INFO] [PythonBridge] RunScript result: output length=0
+[18:36:27] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:36:27] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:36:28] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:28] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:28] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:28] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:28] [INFO] [PythonBridge] Process exit code: 0
+[18:36:28] [INFO] [PythonBridge] RunScript result: output length=1257
+[18:36:33] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:33] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:33] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:33] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:33] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:33] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:34] [INFO] [PythonBridge] Process exit code: 0
+[18:36:34] [INFO] [PythonBridge] RunScript result: output length=1247
+[18:36:38] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:38] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:38] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:38] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:39] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:39] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:41] [INFO] [PythonBridge] Process exit code: 0
+[18:36:41] [INFO] [PythonBridge] RunScript result: output length=1246
+[18:36:43] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:43] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:43] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:43] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:43] [INFO] [ChatDialog] Send button clicked
+[18:36:43] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:36:43] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:36:43] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:36:43] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=1194
+[18:36:43] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:36:43] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:36:43] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:36:43] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:36:45] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: [DoChat] Playing audio asynchxonously £Æ audioFi1e.c str( °≥ °≥ ≤∑ ‡Ì ‡Ì 1 Dla –◊ ≤∑ = °∞ d nag ∞Õ :r “ª °µ pl °± ud ‡Ì F 1 ∞Õ £¨ 84 »Œ π‹ ÕÀ ∆˜ Ωª »  æ… ‘∂ œÓ 0 ‹’ U ⁄• π˝ ≥Ã –‘ ƒ‹ ”¶ º◊ ¿˙  ∑ º« ¬º ∂Ø CPU 24 £• 51 GHz ƒ⁄ ¥Ê 7w15 G 8 °≤ 50 £• £© ¥≈ 0 (C:) SSD H DD “‘ Ã´ Radm n VPN ∑¢ ÀÕ 0 Ω” £Æ 0 Kbps “‘ Ã´ “‘ Ã´ Õ¯ ∑¢ ÀÕ 0 0 Kbps “‘ Ã´ ‡Ì π˝ œÍ 0 “ª œ¢ ∑˛ ŒÒ GPU ÅR Video EnccHde ø˜ ◊‹ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ # ∫µ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ VMwa re Network Adapte. ∑¢ ÀÕ 0 0 Kbps “‘ Ã´ VMware Network Adapte. ∑¢ ÀÕ 0 £Æ 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª 2 £• °≤ 48 °£ 0 ºÚ ”¯ ∆Ù œ¢ (Q) ¥Ú ø™ ‘¥ º‡  ” ∆˜ ¿˚ «o GPIJ ƒ⁄ ¥Ê 2 £Æ 1 / 14 £Æ 0 GB ◊® GPIJ ƒ⁄ ¥Ê 2 £Æ 0 / 6 £Æ 0 GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ ïj π˝ 48 0C NVIDIA ÅR Video «˝ ≥Ã ±æ «˝ µƒ ≥Ã Õπ ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ µƒ Chat with Furina 12 °≤ FL 12 £Æ 1 °≥ PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 2 KB 2 KB 1 KB 1 KB 2 KB 1 KB 1 KB 5 £Æ Å} °∂ ‘∂ °¬ 1 ∏ˆ ∞” 8j1  ÷ ∞° P 0 0 ªÿ ‡Ì 0 0 0 Ò∑ œ¬ °∞ 26
+
+[18:36:45] [INFO] [PythonBridge] Process exit code: 2
+[18:36:45] [INFO] [PythonBridge] RunScript result: output length=0
+[18:36:45] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:36:45] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:36:46] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:46] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:47] [INFO] [PythonBridge] Process exit code: 0
+[18:36:47] [INFO] [PythonBridge] RunScript result: output length=1234
+[18:36:48] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:48] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:48] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:48] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:52] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:36:52] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:36:53] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:36:53] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:36:53] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:36:53] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:36:54] [INFO] [PythonBridge] Process exit code: 0
+[18:36:54] [INFO] [PythonBridge] RunScript result: output length=1355
+[18:39:17] [INFO] [main] === Live2DCompanion starting ===
+[18:39:17] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:39:17] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:39:17] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:39:17] [INFO] [main] TTS engine set to SoVITS
+[18:39:17] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:39:17] [INFO] [TTSManager] Loader GUI started (PID: 8076)
+[18:39:17] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:39:17] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:39:17] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:39:17] [INFO] [main] Window: 400x500
+[18:39:17] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:39:17] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:39:17] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:39:17] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:39:18] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:39:18] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:39:18] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:39:39] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:39:39] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:39:39] [INFO] [LAppDelegate] Window shown
+[18:39:39] [INFO] [LAppDelegate] Initialized successfully
+[18:39:39] [INFO] [main] Application initialized successfully
+[18:39:39] [INFO] [ChatDialog] Window created successfully
+[18:39:39] [INFO] [main] Entering main loop
+[18:39:39] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:39:39] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:39:39] [INFO] [main] Frame: motionManager update
+[18:39:39] [INFO] [main] Frame: modelManager update
+[18:39:39] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:39:39] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:39:39] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:39:39] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:39:39] [INFO] [main] Frame: BeginFrame
+[18:39:39] [INFO] [main] Frame: Render
+[18:39:39] [INFO] [main] Frame: EndFrame
+[18:39:39] [INFO] [main] Frame: complete
+[18:39:39] [INFO] [main] Frame: motionManager update
+[18:39:39] [INFO] [main] Frame: modelManager update
+[18:39:39] [INFO] [main] Frame: BeginFrame
+[18:39:39] [INFO] [main] Frame: Render
+[18:39:40] [INFO] [main] Frame: EndFrame
+[18:39:40] [INFO] [main] Frame: complete
+[18:39:40] [INFO] [main] Frame: motionManager update
+[18:39:40] [INFO] [main] Frame: modelManager update
+[18:39:40] [INFO] [main] Frame: BeginFrame
+[18:39:40] [INFO] [main] Frame: Render
+[18:39:40] [INFO] [main] Frame: EndFrame
+[18:39:40] [INFO] [main] Frame: complete
+[18:39:40] [INFO] [main] Frame: motionManager update
+[18:39:40] [INFO] [main] Frame: modelManager update
+[18:39:40] [INFO] [main] Frame: BeginFrame
+[18:39:40] [INFO] [main] Frame: Render
+[18:39:40] [INFO] [main] Frame: EndFrame
+[18:39:40] [INFO] [main] Frame: complete
+[18:39:40] [INFO] [main] Frame: motionManager update
+[18:39:40] [INFO] [main] Frame: modelManager update
+[18:39:40] [INFO] [main] Frame: BeginFrame
+[18:39:40] [INFO] [main] Frame: Render
+[18:39:40] [INFO] [main] Frame: EndFrame
+[18:39:40] [INFO] [main] Frame: complete
+[18:39:41] [INFO] [main] Auto-greeting triggered
+[18:39:41] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[18:39:41] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:39:41] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:39:43] [INFO] [PythonBridge] Process exit code: 0
+[18:39:43] [INFO] [PythonBridge] RunScript result: output length=2960
+[18:39:43] [INFO] [PythonBridge] RunScript result: output length=2058
+[18:39:43] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:39:43] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1999
+[18:39:43] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:39:43] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:39:43] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:39:43] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:39:44] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:39:44] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:39:44] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:39:44] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:39:45] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: ∑Ô Thir&ing Bash z:\\deepseek Thir&ing sed -m £¨ 1030 ≤ª 1041 °∑ Bash Thir&ing »’ ÷æ √ª ”– »Œ ∫Œ ChatDia10g º« µ•  µ 1 ¡– ª• ÏÊ À¯ W1nMa1n œ» ¥” »Œ ŒÒ π‹ ¿Ì ∆˜ ≥π µ◊ πÿ µÙ æ… Thir&ing Bash grep Live2DCompanion √ª ‘À ·‹ ÿ° –¬ ∞Õ x ∞Õ °£ »’ ÷æ ¿Ô ∆∑ ∫Û ∆Ù £ª º› data=fd bytes ﬂµ ∞Õ rS Ê· I ∞Õ £¨ dataSize °≥ ¿˙  ∑ º« ¬º ∆Ù 52 GHz 1 / 15 G 8 °≤ 51 £• £© 41 £• NVIDIA GeForce GTX 1660 SUPER Copy ÅR Video DeccHde 1 (D. E: Z: F: ¥® »œ Ã´ dm\u2022n VPN £∫ 0 Kbps “‘ Ã´ “‘ Ã´ Õ¯ ∑¢ ÀÕ 0 0 Kbps “‘ Ã´ 35 ∏ˆ œÓ ƒø °∂ ‘∂ ÷– 1 ∏ˆ œÓ ƒø 851 Ê⁄ ∞° °∂ œÍ 0 “ª œ¢ ∑˛ ŒÒ GPU ÅR Video EnccHde ø˜ ◊‹ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ # ∫µ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ ±æ µÿ ¥≈ ≈Ã (D:) ±æ µÿ ¥≈ ≈Ã (E £∫ £© pythor®π ƒø °≤ CPP £® ““ £© VMware Network Adapte. ∑¢ ÀÕ 0 Ω” £Æ 0 Kbps “‘ Ã´ VMware Network Adapte. ∑¢ ÀÕ £Æ 0 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª 41 £• °≤ 50 °£ 0 ºÚ ”¯ ∆Ù œ¢ 0 ¥Ú ø™ ‘¥ º‡  ” ∆˜ L …œ Œ◊ ÿ∞ Åb º« u ÑP …Ω …œ £Æ ÿ∞ ÿ∞ ¿˚ «o 41 £• GPIJ ƒ⁄ ¥Ê 2 £Æ 1 / 14 £Æ 0 GB ◊® GPIJ ƒ⁄ ¥Ê 2 £Æ 0 / 6 £Æ 0 GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ »˝ π˝ 50 0C «˝ «∞ ≥Ã ±æ £Æ «˝ ≥Ã ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ 32 °Ê 0 5 £Æ g536 4 / 23 / 2026 12 ()L 120 £© PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 0 ø˘ óø –Õ æÕ ’˝ ‘⁄ º” ‘ÿ SoVlTS ”Ô “Ù ƒ£ –Õ ÈÃ –Õ º” ‘ÿ ÕÍ Ì¡ £¨ ’˝ ‘⁄ ‘§ »» “ª ∫ƒ Õ° 1i7 √Î °∂ grep ‡Ì d y Check –¬ æ… ≥Ã –Ú ø… ƒ‹ ªπ π“ ‘⁄ ∫Û Ã® £¨ ¥Ú ø™ 1 π§ ∑Ω ¬¿ “ª °∞ Õ¡ °π »ª ∫Û À´ »… bin\Release\Live2DCompanion\u2022 ∞Õ x ∞Õ ‘À –– ∫Û ¡¢ ¬Ì ∏Ê Àﬂ Œ“ £∫ ”– √ª ”– ◊‘ ∂Ø µØ ≥ˆ ¡ƒ ÃÏ ¥∞ ‡Ì £ø »’ ÷æ ¿Ô ”– √ª ”– ≥ˆ œ÷ [DoChat] status £∫ completed tokens £∫ 37 »’ 037 Ò¸ º∆ 5 √Î ÿØ Type youx me S S ag À» P µƒ 0 0 @ ◊Á ∞Õ s / comJnands ctrl+d 0 0 Ò∑ œ¬ °∞ 26
+
+[18:39:45] [INFO] [PythonBridge] Process exit code: 2
+[18:39:45] [INFO] [PythonBridge] RunScript result: output length=0
+[18:39:45] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:39:45] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:39:45] [INFO] [PythonBridge] Persistent process ready!
+[18:39:45] [INFO] [PythonBridge] Model load time: 15674 ms
+[18:39:45] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:39:45] [INFO] [main] SoVITS server ready
+[18:39:45] [INFO] [TTSManager] Terminating loader GUI...
+[18:39:48] [INFO] [ChatDialog] Send button clicked
+[18:39:48] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:39:48] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:39:48] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:39:48] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=1999
+[18:39:48] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:39:48] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:39:48] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:39:48] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:39:48] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:39:48] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:39:49] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: ∑Ô Thir&ing Bash z:\\deepseek Thir&ing sed -m £¨ 1030 ≤ª 1041 °∑ Bash Thir&ing »’ ÷æ √ª ”– »Œ ∫Œ ChatDia10g º« µ•  µ 1 ¡– ª• ÏÊ À¯ W1nMa1n œ» ¥” »Œ ŒÒ π‹ ¿Ì ∆˜ ≥π µ◊ πÿ µÙ æ… Thir&ing Bash grep Live2DCompanion √ª ‘À ·‹ ÿ° –¬ ∞Õ x ∞Õ °£ »’ ÷æ ¿Ô ∆∑ ∫Û ∆Ù £ª º› data=fd bytes ﬂµ ∞Õ rS Ê· I ∞Õ £¨ dataSize °≥ ¿˙  ∑ º« ¬º ∆Ù 52 GHz 1 / 15 G 8 °≤ 51 £• £© 41 £• NVIDIA GeForce GTX 1660 SUPER Copy ÅR Video DeccHde 1 (D. E: Z: F: ¥® »œ Ã´ dm\u2022n VPN £∫ 0 Kbps “‘ Ã´ “‘ Ã´ Õ¯ ∑¢ ÀÕ 0 0 Kbps “‘ Ã´ 35 ∏ˆ œÓ ƒø °∂ ‘∂ ÷– 1 ∏ˆ œÓ ƒø 851 Ê⁄ ∞° °∂ œÍ 0 “ª œ¢ ∑˛ ŒÒ GPU ÅR Video EnccHde ø˜ ◊‹ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ # ∫µ GPLI ƒ⁄ ¥Ê ¿˚ ◊‹ ±æ µÿ ¥≈ ≈Ã (D:) ±æ µÿ ¥≈ ≈Ã (E £∫ £© pythor®π ƒø °≤ CPP £® ““ £© VMware Network Adapte. ∑¢ ÀÕ 0 Ω” £Æ 0 Kbps “‘ Ã´ VMware Network Adapte. ∑¢ ÀÕ £Æ 0 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª 41 £• °≤ 50 °£ 0 ºÚ ”¯ ∆Ù œ¢ 0 ¥Ú ø™ ‘¥ º‡  ” ∆˜ L …œ Œ◊ ÿ∞ Åb º« u ÑP …Ω …œ £Æ ÿ∞ ÿ∞ ¿˚ «o 41 £• GPIJ ƒ⁄ ¥Ê 2 £Æ 1 / 14 £Æ 0 GB ◊® GPIJ ƒ⁄ ¥Ê 2 £Æ 0 / 6 £Æ 0 GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ »˝ π˝ 50 0C «˝ «∞ ≥Ã ±æ £Æ «˝ ≥Ã ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ 32 °Ê 0 5 £Æ g536 4 / 23 / 2026 12 ()L 120 £© PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 0 ø˘ óø –Õ æÕ ’˝ ‘⁄ º” ‘ÿ SoVlTS ”Ô “Ù ƒ£ –Õ ÈÃ –Õ º” ‘ÿ ÕÍ Ì¡ £¨ ’˝ ‘⁄ ‘§ »» “ª ∫ƒ Õ° 1i7 √Î °∂ grep ‡Ì d y Check –¬ æ… ≥Ã –Ú ø… ƒ‹ ªπ π“ ‘⁄ ∫Û Ã® £¨ ¥Ú ø™ 1 π§ ∑Ω ¬¿ “ª °∞ Õ¡ °π »ª ∫Û À´ »… bin\Release\Live2DCompanion\u2022 ∞Õ x ∞Õ ‘À –– ∫Û ¡¢ ¬Ì ∏Ê Àﬂ Œ“ £∫ ”– √ª ”– ◊‘ ∂Ø µØ ≥ˆ ¡ƒ ÃÏ ¥∞ ‡Ì £ø »’ ÷æ ¿Ô ”– √ª ”– ≥ˆ œ÷ [DoChat] status £∫ completed tokens £∫ 37 »’ 037 Ò¸ º∆ 5 √Î ÿØ Type youx me S S ag À» P µƒ 0 0 @ ◊Á ∞Õ s / comJnands ctrl+d 0 0 Ò∑ œ¬ °∞ 26
+
+[18:39:49] [INFO] [PythonBridge] Process exit code: 2
+[18:39:49] [INFO] [PythonBridge] RunScript result: output length=0
+[18:39:49] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:39:49] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:39:49] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:39:49] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:39:49] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:39:49] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:39:50] [INFO] [PythonBridge] Process exit code: 0
+[18:39:50] [INFO] [PythonBridge] RunScript result: output length=2054
+[18:39:55] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:39:55] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:39:57] [INFO] [PythonBridge] Process exit code: 0
+[18:39:57] [INFO] [PythonBridge] RunScript result: output length=2583
+[18:39:57] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:39:57] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:39:57] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:39:57] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:02] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:02] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:02] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:02] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:02] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:02] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:04] [INFO] [PythonBridge] Process exit code: 0
+[18:40:04] [INFO] [PythonBridge] RunScript result: output length=2583
+[18:40:04] [INFO] [ChatDialog] Send button clicked
+[18:40:04] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:40:04] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:40:04] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:40:04] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=2510
+[18:40:04] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:40:04] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:40:04] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:40:04] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:40:06] [INFO] [PythonBridge] stderr: usage: deepseek_api.py [-h] --api-key API_KEY [--api-base API_BASE]
+                       [--model MODEL] [--max-tokens MAX_TOKENS]
+                       [--temperature TEMPERATURE]
+                       [--system-prompt SYSTEM_PROMPT] --user-message
+                       USER_MESSAGE [--screen-content SCREEN_CONTENT]
+deepseek_api.py: error: unrecognized arguments: [AudioManager] WAV £∫ 5dHz 5dch %dbit, data=fd bytes m wavSaJnpleRate, m wavChannels, bitsPerSmple, dataSize °≥ °£ (bitsPerSamp1e / “˝ * °± 1- °± Ω– - °± °± 0 °£ m wavBytesPeISamp1e 35 ∏ˆ œÓ ƒø °∂ ‘∂ ÷– 1 ∏ˆ œÓ ƒø 851 Ê⁄ ∞° °∂ Thir&ing Edit Z:\deepseek live2D\src\AudioManager\u2022 CPP LChanges bool AudioManager £∫ :P] LAppPal £∫ :PrintLOE C £∫ NC ⁄¢ 1 »˝ ∆˜ Ωª »  °≤ F °≥ ‘∂ œÓ 0 ‹’ (V) ⁄• π˝ ≥Ã –‘ ≈˝ ”¶ º◊ ¿˙  ∑ º« ¬º ∂Ø œÍ ºÃ 0 œ¢ Chat Wlth Furina (m isPlaying.l Thir&ing Bash Thir&ing Bash SoVITS “— º” œÍ œ∏ »’ ÷æ £¨ ÷ÿ ∆Ù ø¥ Ω· π˚ »’ ÷æ ª· œ‘  æ £∫ [AudioManager] Play: °≤ [AudioManager] WAV £∫ 3 °∑ [DoChat] Audio pl ˆ√ °µ ’‚ “ª ¥Œ µ„ »… ∑¢ ÀÕ GPIJ »‘ »ª ‘⁄ °∑ Thir&ing grep ] DoChat\l °≤ Bash Thir&ing Bash z:\\deepseek Thir&ing sed -m £¨ 1030 ≤ª 1041 °∑ Bash Thir&ing »’ ÷æ √ª ”– »Œ ∫Œ ChatDia10g º« µ•  µ 1 ¡– ª• ÏÊ À¯ W1nMa1n œ» ¥” »Œ ŒÒ π‹ ¿Ì ∆˜ ≥π µ◊ πÿ µÙ æ… Thir&ing Bash grep Live2DCompanion Live2DC( cd Z:\\deepseek°™li [ 1 £Ø 2 ] Bui °≤ °¢ …‡ ”√ ”⁄ …œ ls °™la °£ $ / liv Live2DC( ∫¨ ≥… ≥… π¶ ¡À £® »’ ÷æ °¢ Bui °≤ Live2DCorn1 bin\Relf Bui 1 d SI S S ƒ„ ∫√ ±æ µÿ ¥≈ ≈Ã (E:) pythor®π ƒø °≤ CPP £® ““ £© eo EnccHde PLI ƒ⁄ ¥Ê ¿˚ ◊‹ PLI ƒ⁄ ¥Ê ¿˚ ◊‹ 2 £Æ 1 / 14 £Æ 0 GB NVIDIA GeForce GTX 1660 SUPER ÅR Video DeccHde 6.0 G 8 &O G 8 ◊® GPIJ ƒ⁄ ¥Ê 2 £Æ 0 / 6 £Æ 0 GB π≤ ∫µ GPIJ ƒ⁄ ¥Ê 0 £Æ 1 / 8 £Æ 0 GB GPIJ „ﬂ »˝ π˝ 48 0C «˝ «∞ ≥Ã ±æ £Æ «˝ ≥Ã ∆⁄ DirectX 0 Œ™ # ±£ µƒ ƒ⁄ ¥Ê £∫ ∑¢ ÀÕ £Æ 0 £∫ 0 Kbps GPU 0 NVIDIA GeForce GTX 165 “ª 2 £• °≤ 48 °£ 0 ºÚ ”¯ ∆Ù œ¢ 0 ¥Ú ø™ ‘¥ º‡  ” ∆˜ L …œ Œ◊ ÿ∞ Åb º« u ÑP …Ω …œ £Æ ÿ∞ ÿ∞ 32 °Ê 0 5 £Æ g536 4 / 23 / 2026 12 ()L 120 £© PCI œﬂ 1 £Æ …Ë 0 π¶ ƒ‹ 0 178 M 8 0 iil “ª 40 Check latest log ‡Ì :r chat 
+[18:40:06] [INFO] [PythonBridge] Process exit code: 2
+[18:40:06] [INFO] [PythonBridge] RunScript result: output length=0
+[18:40:06] [INFO] [DeepSeek] RunScript returned false, output length=0
+[18:40:06] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[18:40:07] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:07] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:07] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:07] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:09] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:09] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:10] [INFO] [PythonBridge] Process exit code: 0
+[18:40:10] [INFO] [PythonBridge] RunScript result: output length=2011
+[18:40:12] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:12] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:12] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:12] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:15] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:15] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:17] [INFO] [PythonBridge] Process exit code: 0
+[18:40:17] [INFO] [PythonBridge] RunScript result: output length=2434
+[18:40:18] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:18] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:18] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:18] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:22] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:22] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:23] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:23] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:23] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:23] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:24] [INFO] [PythonBridge] Process exit code: 0
+[18:40:24] [INFO] [PythonBridge] RunScript result: output length=1218
+[18:40:28] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:28] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:28] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:28] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:31] [INFO] [PythonBridge] Process exit code: 0
+[18:40:31] [INFO] [PythonBridge] RunScript result: output length=858
+[18:40:33] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:33] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:33] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:33] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:38] [INFO] [PythonBridge] Process exit code: 0
+[18:40:38] [INFO] [PythonBridge] RunScript result: output length=1149
+[18:40:38] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:38] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:38] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:38] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:43] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:43] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:43] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:43] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:43] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:43] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:44] [INFO] [PythonBridge] Process exit code: 0
+[18:40:44] [INFO] [PythonBridge] RunScript result: output length=1175
+[18:40:48] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:48] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:48] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:48] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:49] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:49] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:51] [INFO] [PythonBridge] Process exit code: 0
+[18:40:51] [INFO] [PythonBridge] RunScript result: output length=968
+[18:40:53] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:53] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:53] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:53] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:40:56] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:40:56] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:40:58] [INFO] [PythonBridge] Process exit code: 0
+[18:40:58] [INFO] [PythonBridge] RunScript result: output length=967
+[18:40:58] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:40:58] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:40:58] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:40:58] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:03] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:41:03] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:41:03] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:03] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:03] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:03] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:04] [INFO] [PythonBridge] Process exit code: 0
+[18:41:04] [INFO] [PythonBridge] RunScript result: output length=1143
+[18:41:08] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:08] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:08] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:08] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:09] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:41:09] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:41:11] [INFO] [PythonBridge] Process exit code: 0
+[18:41:11] [INFO] [PythonBridge] RunScript result: output length=3390
+[18:41:13] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:13] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:13] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:13] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:16] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:41:16] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:41:18] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:18] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:18] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:18] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:18] [INFO] [PythonBridge] Process exit code: 0
+[18:41:18] [INFO] [PythonBridge] RunScript result: output length=1119
+[18:41:23] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:23] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:23] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:23] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:23] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:41:23] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:41:25] [INFO] [PythonBridge] Process exit code: 0
+[18:41:25] [INFO] [PythonBridge] RunScript result: output length=2011
+[18:41:28] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:41:28] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:41:28] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:41:28] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:41:30] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:41:30] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:53:52] [INFO] [main] === Live2DCompanion starting ===
+[18:53:52] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[18:53:52] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[18:53:52] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:53:52] [INFO] [main] TTS engine set to SoVITS
+[18:53:52] [INFO] [main] Starting SoVITS server with GUI loader...
+[18:53:52] [INFO] [TTSManager] Loader GUI started (PID: 18220)
+[18:53:52] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[18:53:52] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[18:53:52] [INFO] [main] Window: 400x500
+[18:53:52] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[18:53:52] [INFO] [TTSManager] InitializeSoVITS starting...
+[18:53:52] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:53:52] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[18:53:52] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[18:53:53] [INFO] [CompanionWindow] D3D11 initialized successfully
+[18:53:53] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[18:53:53] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[18:54:15] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[18:54:15] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[18:54:15] [INFO] [LAppDelegate] Window shown
+[18:54:15] [INFO] [LAppDelegate] Initialized successfully
+[18:54:15] [INFO] [main] Application initialized successfully
+[18:54:15] [INFO] [ChatDialog] Window created successfully
+[18:54:15] [INFO] [main] Entering main loop
+[18:54:15] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:15] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:15] [INFO] [main] Frame: motionManager update
+[18:54:15] [INFO] [main] Frame: modelManager update
+[18:54:15] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:15] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:15] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:15] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:15] [INFO] [main] Frame: BeginFrame
+[18:54:15] [INFO] [main] Frame: Render
+[18:54:15] [INFO] [main] Frame: EndFrame
+[18:54:15] [INFO] [main] Frame: complete
+[18:54:15] [INFO] [main] Frame: motionManager update
+[18:54:15] [INFO] [main] Frame: modelManager update
+[18:54:15] [INFO] [main] Frame: BeginFrame
+[18:54:15] [INFO] [main] Frame: Render
+[18:54:15] [INFO] [main] Frame: EndFrame
+[18:54:15] [INFO] [main] Frame: complete
+[18:54:15] [INFO] [main] Frame: motionManager update
+[18:54:15] [INFO] [main] Frame: modelManager update
+[18:54:15] [INFO] [main] Frame: BeginFrame
+[18:54:15] [INFO] [main] Frame: Render
+[18:54:15] [INFO] [main] Frame: EndFrame
+[18:54:15] [INFO] [main] Frame: complete
+[18:54:15] [INFO] [main] Frame: motionManager update
+[18:54:15] [INFO] [main] Frame: modelManager update
+[18:54:15] [INFO] [main] Frame: BeginFrame
+[18:54:15] [INFO] [main] Frame: Render
+[18:54:15] [INFO] [main] Frame: EndFrame
+[18:54:15] [INFO] [main] Frame: complete
+[18:54:15] [INFO] [main] Frame: motionManager update
+[18:54:15] [INFO] [main] Frame: modelManager update
+[18:54:15] [INFO] [main] Frame: BeginFrame
+[18:54:15] [INFO] [main] Frame: Render
+[18:54:15] [INFO] [main] Frame: EndFrame
+[18:54:15] [INFO] [main] Frame: complete
+[18:54:16] [INFO] [PythonBridge] Process exit code: 0
+[18:54:16] [INFO] [PythonBridge] RunScript result: output length=2490
+[18:54:17] [INFO] [main] Auto-greeting triggered
+[18:54:17] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[18:54:17] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:54:17] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=2428
+[18:54:17] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:54:17] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:54:17] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:54:17] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:54:20] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:20] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:20] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:20] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:22] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:22] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:23] [INFO] [PythonBridge] Process exit code: 0
+[18:54:23] [INFO] [PythonBridge] RunScript result: output length=262
+[18:54:23] [INFO] [DeepSeek] RunScript returned output length=262
+[18:54:23] [INFO] [DeepSeek] Success, reply length=230
+[18:54:23] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=230
+[18:54:23] [INFO] [DoChat] Calling TTS Speak...
+[18:54:23] [INFO] [TTSManager] SoVITS server not ready, waiting...
+[18:54:23] [INFO] [PythonBridge] Process exit code: 0
+[18:54:23] [INFO] [PythonBridge] RunScript result: output length=2268
+[18:54:25] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:25] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:25] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:25] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:26] [INFO] [ChatDialog] Send button clicked
+[18:54:26] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[18:54:26] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[18:54:26] [INFO] [DoChat] Already talking, returning
+[18:54:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:29] [INFO] [PythonBridge] Persistent process ready!
+[18:54:29] [INFO] [PythonBridge] Model load time: 16087 ms
+[18:54:29] [INFO] [TTSManager] SoVITS persistent server started successfully
+[18:54:29] [INFO] [main] SoVITS server ready
+[18:54:29] [INFO] [TTSManager] Terminating loader GUI...
+[18:54:29] [INFO] [TTSManager] Server is ready after 6.5 sec
+[18:54:30] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:30] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:30] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:30] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:30] [INFO] [PythonBridge] Process exit code: 0
+[18:54:30] [INFO] [PythonBridge] RunScript result: output length=2265
+[18:54:35] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:35] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:35] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:35] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:35] [INFO] [TTSManager] SoVITS server error: LookupError: 
+**********************************************************************
+  Resource 'averaged_perceptron_tagger_eng' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'taggers/averaged_perceptron_tagger_eng/'
+
+  Searched in:
+    - 'C:\\Users\\36314/nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\share\\nltk_data'
+    - 'Z:\\deepseek_live2D\\venv_tts\\lib\\nltk_data'
+    - 'C:\\Users\\36314\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+[18:54:35] [INFO] [TTSManager] SoVITS request failed (fail count: 1/3)
+[18:54:35] [INFO] [DoChat] TTS Speak failed
+[18:54:35] [INFO] [DoChat] Exiting
+[18:54:35] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:35] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:36] [INFO] [ChatDialog] OnSend: '‰Ω†Â•ΩÂïä'
+[18:54:36] [INFO] [DoChat] === ENTER === message='‰Ω†Â•ΩÂïä'
+[18:54:36] [INFO] [DoChat] Calling DeepSeek Chat...
+[18:54:36] [INFO] [DeepSeek] Chat called, userMessage length=9, screenContent length=2203
+[18:54:36] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[18:54:36] [INFO] [DeepSeek] Running script with timeout 60000ms
+[18:54:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[18:54:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[18:54:37] [INFO] [PythonBridge] Process exit code: 0
+[18:54:37] [INFO] [PythonBridge] RunScript result: output length=2278
+[18:54:40] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:40] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:40] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:40] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:41] [INFO] [PythonBridge] Process exit code: 0
+[18:54:41] [INFO] [PythonBridge] RunScript result: output length=151
+[18:54:41] [INFO] [DeepSeek] RunScript returned output length=151
+[18:54:41] [INFO] [DeepSeek] Success, reply length=119
+[18:54:41] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=119
+[18:54:41] [INFO] [DoChat] Calling TTS Speak...
+[18:54:41] [INFO] [ChatDialog] Send button clicked
+[18:54:41] [INFO] [ChatDialog] OnSend: '‰Ω†Â•ΩÂïä'
+[18:54:41] [INFO] [DoChat] === ENTER === message='‰Ω†Â•ΩÂïä'
+[18:54:41] [INFO] [DoChat] Already talking, returning
+[18:54:42] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:42] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:44] [INFO] [PythonBridge] Process exit code: 0
+[18:54:44] [INFO] [PythonBridge] RunScript result: output length=2276
+[18:54:45] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:45] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:45] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:45] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:49] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:49] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:50] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:50] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:50] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:50] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:51] [INFO] [PythonBridge] Process exit code: 0
+[18:54:51] [INFO] [PythonBridge] RunScript result: output length=2295
+[18:54:54] [INFO] [TTSManager] SoVITS synthesis: 13496 ms
+[18:54:54] [INFO] [Perf] TTS latency: 13517.3 ms
+[18:54:54] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_54_41_126.wav
+[18:54:54] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[18:54:54] [INFO] [DoChat] Playing audio asynchronously: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_54_41_126.wav
+[18:54:54] [INFO] [AudioManager] Play: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_18_54_41_126.wav
+[18:54:54] [INFO] [AudioManager] WAV: 32000Hz 1ch 16bit, data=592640 bytes
+[18:54:54] [INFO] [DoChat] Audio playback started
+[18:54:54] [INFO] [DoChat] Exiting
+[18:54:55] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:54:55] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:54:55] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:54:55] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:54:56] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:54:56] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:54:57] [INFO] [MotionManager] Motion finished: Talk
+[18:54:58] [INFO] [PythonBridge] Process exit code: 0
+[18:54:58] [INFO] [PythonBridge] RunScript result: output length=2294
+[18:55:00] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:00] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:00] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:00] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:03] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:03] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:04] [INFO] [PythonBridge] Process exit code: 0
+[18:55:04] [INFO] [PythonBridge] RunScript result: output length=2290
+[18:55:05] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:05] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:05] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:05] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:09] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:09] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:10] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:10] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:10] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:10] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:11] [INFO] [PythonBridge] Process exit code: 0
+[18:55:11] [INFO] [PythonBridge] RunScript result: output length=2290
+[18:55:15] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:15] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:15] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:15] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:16] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:16] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:18] [INFO] [PythonBridge] Process exit code: 0
+[18:55:18] [INFO] [PythonBridge] RunScript result: output length=2296
+[18:55:20] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:20] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:20] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:20] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:23] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:23] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:24] [INFO] [PythonBridge] Process exit code: 0
+[18:55:24] [INFO] [PythonBridge] RunScript result: output length=2294
+[18:55:25] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:25] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:25] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:25] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:30] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:30] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:30] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:30] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:31] [INFO] [PythonBridge] Process exit code: 0
+[18:55:31] [INFO] [PythonBridge] RunScript result: output length=2296
+[18:55:35] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:35] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:35] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:35] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:38] [INFO] [PythonBridge] Process exit code: 0
+[18:55:38] [INFO] [PythonBridge] RunScript result: output length=1111
+[18:55:40] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:40] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:40] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:40] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:43] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:43] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:44] [INFO] [PythonBridge] Process exit code: 0
+[18:55:44] [INFO] [PythonBridge] RunScript result: output length=1163
+[18:55:45] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:45] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:45] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:45] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:49] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[18:55:49] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[18:55:50] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[18:55:50] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[18:55:50] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[18:55:50] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[18:55:51] [INFO] [PythonBridge] Process exit code: 0
+[18:55:51] [INFO] [PythonBridge] RunScript result: output length=1598
+[19:01:44] [INFO] [main] === Live2DCompanion starting ===
+[19:01:44] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[19:01:44] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[19:01:44] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:01:44] [INFO] [main] TTS engine set to SoVITS
+[19:01:44] [INFO] [main] Starting SoVITS server with GUI loader...
+[19:01:44] [INFO] [TTSManager] Loader GUI started (PID: 15796)
+[19:01:44] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[19:01:44] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[19:01:44] [INFO] [TTSManager] InitializeSoVITS starting...
+[19:01:44] [INFO] [main] Window: 400x500
+[19:01:44] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[19:01:44] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[19:01:44] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[19:01:44] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[19:01:44] [INFO] [CompanionWindow] D3D11 initialized successfully
+[19:01:44] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[19:01:44] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[19:02:06] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[19:02:06] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[19:02:06] [INFO] [LAppDelegate] Window shown
+[19:02:06] [INFO] [LAppDelegate] Initialized successfully
+[19:02:06] [INFO] [main] Application initialized successfully
+[19:02:06] [INFO] [ChatDialog] Window created successfully
+[19:02:06] [INFO] [main] Entering main loop
+[19:02:06] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:06] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:06] [INFO] [main] Frame: motionManager update
+[19:02:06] [INFO] [main] Frame: modelManager update
+[19:02:06] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:06] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:06] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:06] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:06] [INFO] [main] Frame: BeginFrame
+[19:02:06] [INFO] [main] Frame: Render
+[19:02:06] [INFO] [main] Frame: EndFrame
+[19:02:06] [INFO] [main] Frame: complete
+[19:02:06] [INFO] [main] Frame: motionManager update
+[19:02:06] [INFO] [main] Frame: modelManager update
+[19:02:06] [INFO] [main] Frame: BeginFrame
+[19:02:06] [INFO] [main] Frame: Render
+[19:02:06] [INFO] [main] Frame: EndFrame
+[19:02:06] [INFO] [main] Frame: complete
+[19:02:06] [INFO] [main] Frame: motionManager update
+[19:02:06] [INFO] [main] Frame: modelManager update
+[19:02:06] [INFO] [main] Frame: BeginFrame
+[19:02:06] [INFO] [main] Frame: Render
+[19:02:06] [INFO] [main] Frame: EndFrame
+[19:02:06] [INFO] [main] Frame: complete
+[19:02:06] [INFO] [main] Frame: motionManager update
+[19:02:06] [INFO] [main] Frame: modelManager update
+[19:02:06] [INFO] [main] Frame: BeginFrame
+[19:02:06] [INFO] [main] Frame: Render
+[19:02:06] [INFO] [main] Frame: EndFrame
+[19:02:06] [INFO] [main] Frame: complete
+[19:02:06] [INFO] [main] Frame: motionManager update
+[19:02:06] [INFO] [main] Frame: modelManager update
+[19:02:06] [INFO] [main] Frame: BeginFrame
+[19:02:06] [INFO] [main] Frame: Render
+[19:02:06] [INFO] [main] Frame: EndFrame
+[19:02:06] [INFO] [main] Frame: complete
+[19:02:08] [INFO] [PythonBridge] Process exit code: 0
+[19:02:08] [INFO] [PythonBridge] RunScript result: output length=1838
+[19:02:08] [INFO] [main] Auto-greeting triggered
+[19:02:08] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[19:02:08] [INFO] [DoChat] Calling DeepSeek Chat...
+[19:02:08] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1786
+[19:02:08] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[19:02:08] [INFO] [DeepSeek] Running script with timeout 60000ms
+[19:02:08] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:02:08] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[19:02:11] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:11] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:11] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:11] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:12] [INFO] [PythonBridge] Persistent process ready!
+[19:02:12] [INFO] [PythonBridge] Model load time: 15678 ms
+[19:02:12] [INFO] [TTSManager] SoVITS persistent server started successfully
+[19:02:12] [INFO] [main] SoVITS server ready
+[19:02:12] [INFO] [TTSManager] Terminating loader GUI...
+[19:02:13] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:13] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:13] [INFO] [PythonBridge] Process exit code: 0
+[19:02:13] [INFO] [PythonBridge] RunScript result: output length=186
+[19:02:13] [INFO] [DeepSeek] RunScript returned output length=186
+[19:02:13] [INFO] [DeepSeek] Success, reply length=154
+[19:02:13] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=154
+[19:02:13] [INFO] [DoChat] Calling TTS Speak...
+[19:02:14] [INFO] [ChatDialog] Send button clicked
+[19:02:14] [INFO] [ChatDialog] OnSend: '‰Ω†Â•ΩÔºÅ'
+[19:02:14] [INFO] [DoChat] === ENTER === message='‰Ω†Â•ΩÔºÅ'
+[19:02:14] [INFO] [DoChat] Already talking, returning
+[19:02:15] [INFO] [PythonBridge] Process exit code: 0
+[19:02:15] [INFO] [PythonBridge] RunScript result: output length=1374
+[19:02:16] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:16] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:16] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:16] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:20] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:20] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:21] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:21] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:21] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:21] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:22] [INFO] [PythonBridge] Process exit code: 0
+[19:02:22] [INFO] [PythonBridge] RunScript result: output length=1379
+[19:02:26] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:26] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:26] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:26] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:27] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:27] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:28] [INFO] [PythonBridge] Process exit code: 0
+[19:02:28] [INFO] [PythonBridge] RunScript result: output length=1379
+[19:02:31] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:31] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:31] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:31] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:33] [INFO] [TTSManager] SoVITS synthesis: 19123 ms
+[19:02:33] [INFO] [Perf] TTS latency: 19143.1 ms
+[19:02:33] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_13_965.wav
+[19:02:33] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[19:02:33] [INFO] [DoChat] Playing audio asynchronously: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_13_965.wav
+[19:02:33] [INFO] [AudioManager] Play: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_13_965.wav
+[19:02:33] [INFO] [AudioManager] WAV: 32000Hz 1ch 16bit, data=802560 bytes
+[19:02:33] [INFO] [DoChat] Audio playback started
+[19:02:33] [INFO] [DoChat] Exiting
+[19:02:33] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:33] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:35] [INFO] [PythonBridge] Process exit code: 0
+[19:02:35] [INFO] [PythonBridge] RunScript result: output length=1378
+[19:02:36] [INFO] [ChatDialog] Send button clicked
+[19:02:36] [INFO] [ChatDialog] OnSend: '‰Ω†Â•ΩÔºÅ'
+[19:02:36] [INFO] [DoChat] === ENTER === message='‰Ω†Â•ΩÔºÅ'
+[19:02:36] [INFO] [DoChat] Calling DeepSeek Chat...
+[19:02:36] [INFO] [DeepSeek] Chat called, userMessage length=9, screenContent length=1326
+[19:02:36] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[19:02:36] [INFO] [DeepSeek] Running script with timeout 60000ms
+[19:02:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:02:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[19:02:36] [INFO] [MotionManager] Motion finished: Talk
+[19:02:36] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:36] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:36] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:36] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:40] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:40] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:41] [INFO] [PythonBridge] Process exit code: 0
+[19:02:41] [INFO] [PythonBridge] RunScript result: output length=164
+[19:02:41] [INFO] [DeepSeek] RunScript returned output length=164
+[19:02:41] [INFO] [DeepSeek] Success, reply length=132
+[19:02:41] [INFO] [DoChat] DeepSeek Chat result: success=1, reply length=132
+[19:02:41] [INFO] [DoChat] Calling TTS Speak...
+[19:02:41] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:41] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:41] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:41] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:42] [INFO] [PythonBridge] Process exit code: 0
+[19:02:42] [INFO] [PythonBridge] RunScript result: output length=1376
+[19:02:46] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:46] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:46] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:46] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:47] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:47] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:49] [INFO] [PythonBridge] Process exit code: 0
+[19:02:49] [INFO] [PythonBridge] RunScript result: output length=1060
+[19:02:51] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:51] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:51] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:51] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:54] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:02:54] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:02:56] [INFO] [PythonBridge] Process exit code: 0
+[19:02:56] [INFO] [PythonBridge] RunScript result: output length=1769
+[19:02:56] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:02:56] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:02:56] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:02:56] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:02:57] [INFO] [TTSManager] SoVITS synthesis: 16058 ms
+[19:02:57] [INFO] [Perf] TTS latency: 16078.6 ms
+[19:02:57] [INFO] [DoChat] TTS success, audioFile=C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_41_386.wav
+[19:02:57] [INFO] [MotionManager] StartMotion: Talk, priority=1
+[19:02:57] [INFO] [DoChat] Playing audio asynchronously: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_41_386.wav
+[19:02:57] [INFO] [AudioManager] Play: C:\Users\36314\AppData\Local\Temp\live2d_tts_2026-06-07_19_02_41_386.wav
+[19:03:00] [INFO] [MotionManager] Motion finished: Talk
+[19:03:01] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:03:01] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:03:01] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:03:01] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:03:01] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:03:01] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:03:03] [INFO] [PythonBridge] Process exit code: 0
+[19:03:03] [INFO] [PythonBridge] RunScript result: output length=1813
+[19:45:02] [INFO] [main] === Live2DCompanion starting ===
+[19:45:02] [INFO] [main] Config path: Z:\deepseek_live2D\bin\Release\config.json
+[19:45:02] [INFO] [main] Config loaded: model=ËäôÂÆÅÂ®ú
+[19:45:02] [INFO] [DeepSeek] SetConfig: script=Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:45:02] [INFO] [main] TTS engine set to SoVITS
+[19:45:02] [INFO] [main] Starting SoVITS server with GUI loader...
+[19:45:02] [INFO] [TTSManager] Loader GUI started (PID: 4148)
+[19:45:02] [INFO] [main] Executable dir: Z:\deepseek_live2D\bin\Release
+[19:45:02] [INFO] [TTSManager] InitializeSoVITS starting...
+[19:45:02] [INFO] [main] Model dir: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ
+[19:45:02] [INFO] [PythonBridge] StartPersistentProcess: Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[19:45:02] [INFO] [main] Window: 400x500
+[19:45:02] [INFO] [PythonBridge] Persistent CmdLine: Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\sovits_server.py
+[19:45:02] [INFO] [LAppDelegate] CubismFramework StartUp returned: 1
+[19:45:02] [INFO] [CompanionWindow] Window created: 400x500 at (1500,560)
+[19:45:02] [INFO] [CompanionWindow] D3D11 initialized successfully
+[19:45:02] [INFO] [LAppDelegate] Loading model from: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ / ËäôÂÆÅÂ®ú
+[19:45:02] [DEBUG] [LAppModel] Loading model json: Z:\deepseek_live2D\bin\Release\Resources/model/ËäôÂÆÅÂ®úÔºàprpr„ÄÅÁõ¥Êí≠Âß¨Ôºâ/ËäôÂÆÅÂ®ú.model3.json
+[19:45:24] [INFO] [LAppModel] Model loaded: ËäôÂÆÅÂ®ú.model3.json
+[19:45:24] [INFO] [Live2DManager] Model loaded successfully: ËäôÂÆÅÂ®ú
+[19:45:24] [INFO] [LAppDelegate] Window shown
+[19:45:24] [INFO] [LAppDelegate] Initialized successfully
+[19:45:24] [INFO] [main] Application initialized successfully
+[19:45:24] [INFO] [ChatDialog] Window created successfully
+[19:45:24] [INFO] [main] Chat GUI launched (PID: 18316)
+[19:45:24] [INFO] [main] Entering main loop
+[19:45:24] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:24] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:24] [INFO] [main] Frame: motionManager update
+[19:45:24] [INFO] [main] Frame: modelManager update
+[19:45:24] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:24] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:24] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:24] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:24] [INFO] [main] Frame: BeginFrame
+[19:45:24] [INFO] [main] Frame: Render
+[19:45:24] [INFO] [main] Frame: EndFrame
+[19:45:24] [INFO] [main] Frame: complete
+[19:45:24] [INFO] [main] Frame: motionManager update
+[19:45:24] [INFO] [main] Frame: modelManager update
+[19:45:24] [INFO] [main] Frame: BeginFrame
+[19:45:24] [INFO] [main] Frame: Render
+[19:45:24] [INFO] [main] Frame: EndFrame
+[19:45:24] [INFO] [main] Frame: complete
+[19:45:24] [INFO] [main] Frame: motionManager update
+[19:45:24] [INFO] [main] Frame: modelManager update
+[19:45:24] [INFO] [main] Frame: BeginFrame
+[19:45:24] [INFO] [main] Frame: Render
+[19:45:24] [INFO] [main] Frame: EndFrame
+[19:45:24] [INFO] [main] Frame: complete
+[19:45:24] [INFO] [main] Frame: motionManager update
+[19:45:24] [INFO] [main] Frame: modelManager update
+[19:45:24] [INFO] [main] Frame: BeginFrame
+[19:45:24] [INFO] [main] Frame: Render
+[19:45:24] [INFO] [main] Frame: EndFrame
+[19:45:24] [INFO] [main] Frame: complete
+[19:45:24] [INFO] [main] Frame: motionManager update
+[19:45:24] [INFO] [main] Frame: modelManager update
+[19:45:24] [INFO] [main] Frame: BeginFrame
+[19:45:24] [INFO] [main] Frame: Render
+[19:45:24] [INFO] [main] Frame: EndFrame
+[19:45:24] [INFO] [main] Frame: complete
+[19:45:26] [INFO] [main] Auto-greeting triggered
+[19:45:26] [INFO] [DoChat] === ENTER === message='Hello master~ What's on screen? Keep me company!'
+[19:45:26] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:26] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:29] [INFO] [PythonBridge] Process exit code: 0
+[19:45:29] [INFO] [PythonBridge] RunScript result: output length=1712
+[19:45:29] [INFO] [PythonBridge] RunScript result: output length=1712
+[19:45:29] [INFO] [DoChat] Calling DeepSeek Chat...
+[19:45:29] [INFO] [DeepSeek] Chat called, userMessage length=48, screenContent length=1655
+[19:45:29] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[19:45:29] [INFO] [DeepSeek] Running script with timeout 60000ms
+[19:45:29] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:45:29] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[19:45:32] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:32] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:32] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:32] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:32] [INFO] [PythonBridge] Process exit code: 1
+[19:45:32] [INFO] [PythonBridge] RunScript result: output length=1663
+[19:45:32] [INFO] [DeepSeek] RunScript returned output length=1663
+[19:45:32] [INFO] [DeepSeek] API error: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****HERE is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+[19:45:32] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[19:45:34] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:34] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:36] [INFO] [ChatDialog] Send button clicked
+[19:45:36] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[19:45:36] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[19:45:36] [INFO] [DoChat] Calling DeepSeek Chat...
+[19:45:36] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=1655
+[19:45:36] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[19:45:36] [INFO] [DeepSeek] Running script with timeout 60000ms
+[19:45:36] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:45:36] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[19:45:36] [INFO] [PythonBridge] Process exit code: 0
+[19:45:36] [INFO] [PythonBridge] RunScript result: output length=1690
+[19:45:37] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:37] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:37] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:37] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:39] [INFO] [PythonBridge] Process exit code: 1
+[19:45:39] [INFO] [PythonBridge] RunScript result: output length=1663
+[19:45:39] [INFO] [DeepSeek] RunScript returned output length=1663
+[19:45:39] [INFO] [DeepSeek] API error: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****HERE is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+[19:45:39] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[19:45:41] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:41] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:42] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:42] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:42] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:42] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:43] [INFO] [PythonBridge] Process exit code: 0
+[19:45:43] [INFO] [PythonBridge] RunScript result: output length=1467
+[19:45:47] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:47] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:47] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:47] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:48] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:48] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:50] [INFO] [PythonBridge] Process exit code: 0
+[19:45:50] [INFO] [PythonBridge] RunScript result: output length=2230
+[19:45:52] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:52] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:52] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:52] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:55] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:45:55] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:45:57] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:45:57] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:45:57] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:45:57] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:45:57] [INFO] [PythonBridge] Process exit code: 0
+[19:45:57] [INFO] [PythonBridge] RunScript result: output length=2186
+[19:46:00] [INFO] [ChatDialog] Send button clicked
+[19:46:00] [INFO] [ChatDialog] OnSend: '‰Ω†Â•Ω'
+[19:46:00] [INFO] [DoChat] === ENTER === message='‰Ω†Â•Ω'
+[19:46:00] [INFO] [DoChat] Calling DeepSeek Chat...
+[19:46:00] [INFO] [DeepSeek] Chat called, userMessage length=6, screenContent length=2128
+[19:46:00] [INFO] [DeepSeek] Python exe: Z:\deepseek_live2D\venv_tts\Scripts\python.exe
+[19:46:00] [INFO] [DeepSeek] Running script with timeout 60000ms
+[19:46:00] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\deepseek_api.py
+[19:46:00] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\deepseek_api.py [...args]
+[19:46:02] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:02] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:02] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:02] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:02] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:02] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:03] [INFO] [PythonBridge] Process exit code: 1
+[19:46:03] [INFO] [PythonBridge] RunScript result: output length=1663
+[19:46:03] [INFO] [DeepSeek] RunScript returned output length=1663
+[19:46:03] [INFO] [DeepSeek] API error: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****HERE is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+[19:46:03] [INFO] [DoChat] DeepSeek Chat result: success=0, reply length=0
+[19:46:04] [INFO] [PythonBridge] Process exit code: 0
+[19:46:04] [INFO] [PythonBridge] RunScript result: output length=2441
+[19:46:07] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:07] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:07] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:07] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:09] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:09] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:10] [INFO] [PythonBridge] Process exit code: 0
+[19:46:10] [INFO] [PythonBridge] RunScript result: output length=2387
+[19:46:12] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:12] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:12] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:12] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:15] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:15] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:17] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:18] [INFO] [PythonBridge] Process exit code: 0
+[19:46:18] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:18] [INFO] [PythonBridge] RunScript result: output length=3967
+[19:46:18] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:18] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:23] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:23] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:23] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:23] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:23] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:23] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:25] [INFO] [PythonBridge] Process exit code: 0
+[19:46:25] [INFO] [PythonBridge] RunScript result: output length=3967
+[19:46:28] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:28] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:28] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:28] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:30] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:30] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:32] [INFO] [PythonBridge] Process exit code: 0
+[19:46:32] [INFO] [PythonBridge] RunScript result: output length=3969
+[19:46:33] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:33] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:33] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:33] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:37] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:37] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:38] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:38] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:38] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:38] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:39] [INFO] [PythonBridge] Process exit code: 0
+[19:46:39] [INFO] [PythonBridge] RunScript result: output length=2534
+[19:46:43] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:43] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:43] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:43] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:44] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:44] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:46] [INFO] [PythonBridge] Process exit code: 0
+[19:46:46] [INFO] [PythonBridge] RunScript result: output length=3981
+[19:46:48] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:48] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:48] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:48] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:51] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:51] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:53] [INFO] [PythonBridge] Process exit code: 0
+[19:46:53] [INFO] [PythonBridge] RunScript result: output length=4007
+[19:46:53] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:53] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:53] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:53] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:46:58] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:46:58] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:46:58] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:46:58] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:46:58] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:46:58] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:00] [INFO] [PythonBridge] Process exit code: 0
+[19:47:00] [INFO] [PythonBridge] RunScript result: output length=4074
+[19:47:03] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:03] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:03] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:03] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:05] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:05] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:07] [INFO] [PythonBridge] Persistent process ready!
+[19:47:07] [INFO] [PythonBridge] Model load time: 66337 ms
+[19:47:07] [INFO] [TTSManager] SoVITS persistent server started successfully
+[19:47:07] [INFO] [main] SoVITS server ready
+[19:47:07] [INFO] [TTSManager] Terminating loader GUI...
+[19:47:07] [INFO] [PythonBridge] Process exit code: 0
+[19:47:07] [INFO] [PythonBridge] RunScript result: output length=1514
+[19:47:08] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:08] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:08] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:08] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:12] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:12] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:13] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:13] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:13] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:13] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:14] [INFO] [PythonBridge] Process exit code: 0
+[19:47:14] [INFO] [PythonBridge] RunScript result: output length=1517
+[19:47:18] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:18] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:18] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:18] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:19] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:19] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:20] [INFO] [PythonBridge] Process exit code: 0
+[19:47:20] [INFO] [PythonBridge] RunScript result: output length=1485
+[19:47:23] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:23] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:23] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:23] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:25] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:25] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:27] [INFO] [PythonBridge] Process exit code: 0
+[19:47:27] [INFO] [PythonBridge] RunScript result: output length=1494
+[19:47:28] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:28] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:28] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:28] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:32] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:32] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:33] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:33] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:33] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:33] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:34] [INFO] [PythonBridge] Process exit code: 0
+[19:47:34] [INFO] [PythonBridge] RunScript result: output length=1494
+[19:47:38] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:38] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:38] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:38] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:39] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:39] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:41] [INFO] [PythonBridge] Process exit code: 0
+[19:47:41] [INFO] [PythonBridge] RunScript result: output length=1007
+[19:47:43] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:43] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:43] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:43] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)
+[19:47:46] [INFO] [PythonBridge] RunScript: Z:\deepseek_live2D\bin\Release\python\ocr_helper.py
+[19:47:46] [INFO] [PythonBridge] CmdLine (utf8): Z:\deepseek_live2D\venv_tts\Scripts\python.exe Z:\deepseek_live2D\bin\Release\python\ocr_helper.py [...args]
+[19:47:48] [INFO] [PythonBridge] Process exit code: 0
+[19:47:48] [INFO] [PythonBridge] RunScript result: output length=1685
+[19:47:48] [INFO] [LAppModel] StartRandomMotion: group='Idle', no=0/1, priority=1
+[19:47:48] [INFO] [LAppModel] StartMotion preloaded motion available: group='Idle', no=0
+[19:47:48] [INFO] [LAppModel] StartMotion loaded: group='Idle', no=0, file=motions/ÂæÖÊú∫Âä®Áîª.motion3.json
+[19:47:48] [INFO] [LAppModel] StartMotion result: SUCCESS (group='Idle', no=0, priority=1)

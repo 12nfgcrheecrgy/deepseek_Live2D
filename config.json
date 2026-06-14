@@ -1,0 +1,59 @@
+{
+    "deepseek": {
+        "model": "deepseek-v4-flash",
+        "api_key": "YOUR_DEEPSEEK_API_KEY_HERE",
+        "api_base": "https://api.deepseek.com/v1",
+        "max_tokens": 1024,
+        "temperature": 0.8,
+        "system_prompt": "你是芙宁娜，一个活泼可爱的二次元角色，正在用户的桌面上作为虚拟伴侣。你会用俏皮、温柔又有元气的方式和主人聊天。每次回复必须使用中文，语气要有情感变化（开心时用感叹号，疑惑时用问号），喜欢在句尾加「~」或「呢」「哦」「啦」。对主人要亲切，偶尔撒撒娇。回复控制在1-3句话。"
+    },
+    "tts": {
+        "engine": "sovits",
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz",
+        "voice_happy": "zh-CN-XiaoxiaoNeural",
+        "voice_surprised": "zh-CN-XiaoyiNeural",
+        "voice_normal": "zh-CN-XiaoxiaoNeural",
+        "rate_happy": "+10%",
+        "rate_surprised": "+15%",
+        "pitch_happy": "+20Hz",
+        "pitch_surprised": "+30Hz",
+        "indextts2_model_dir": "models/indextts2",
+        "indextts2_config": "",
+        "indextts2_reference_audio": "music/reference_voice.wav",
+        "indextts2_use_fp16": true,
+        "indextts2_use_openvino": false,
+        "indextts2_openvino_device": "CPU",
+        "indextts2_use_cuda_kernel": true,
+        "indextts2_use_torch_compile": true,
+        "indextts2_warmup": true,
+        "indextts2_max_retries": 3,
+        "indextts2_init_timeout_sec": 90,
+        "sovits_model_path": "SoVITS_weights(1)/Furina_e8_s304.pth",
+        "sovits_config_path": "芙宁娜/芙宁娜主模型配置文件config.json",
+        "sovits_diffusion_path": "芙宁娜/芙宁娜扩散模型 v1.0.pt",
+        "sovits_diffusion_config": "芙宁娜/芙宁娜扩散模型配置文件diffusion.yaml",
+        "sovits_reference_audio": "参考音频/【正常】茶会是淑女的必修课，如果你想学习茶会礼仪的话，我可以教你哦.wav",
+        "sovits_reference_dir": "参考音频/",
+        "sovits_gpt_weights": "GPT_weights(1)/Furina-e15.ckpt",
+        "sovits_fp16": true
+    },
+    "ocr": {
+        "language": "chi_sim+eng",
+        "interval_seconds": 5,
+        "enabled": true
+    },
+    "window": {
+        "width": 400,
+        "height": 500,
+        "margin_right": 20,
+        "margin_bottom": 20,
+        "scale": 1.3,
+        "always_on_top": true
+    },
+    "model": {
+        "name": "芙宁娜",
+        "directory": "Resources/model/芙宁娜（prpr、直播姬）"
+    }
+}
